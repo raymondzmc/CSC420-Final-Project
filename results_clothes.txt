@@ -1,0 +1,2700 @@
+Loss for Batch 1 of 300: 16.45091
+The accuracy for background is 83.36186
+The accuracy for skin is 0.00000
+The accuracy for hair is 0.00000
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 0.00000
+The accuracy for dress is 0.00000
+Pixel accuracy: 83.36186
+Loss for Batch 2 of 300: 6.44401
+The accuracy for background is 83.36186
+The accuracy for skin is 0.00000
+The accuracy for hair is 0.00000
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 0.00000
+The accuracy for dress is 0.00000
+Pixel accuracy: 83.36186
+Loss for Batch 3 of 300: 6.02568
+The accuracy for background is 83.36186
+The accuracy for skin is 0.00000
+The accuracy for hair is 0.00000
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 0.00000
+The accuracy for dress is 0.00000
+Pixel accuracy: 83.36186
+Loss for Batch 4 of 300: 5.64041
+The accuracy for background is 83.36186
+The accuracy for skin is 0.00000
+The accuracy for hair is 0.00000
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 0.00000
+The accuracy for dress is 0.00000
+Pixel accuracy: 83.36186
+Loss for Batch 5 of 300: 5.31764
+The accuracy for background is 86.22005
+The accuracy for skin is 26.62640
+The accuracy for hair is 0.00000
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 0.00000
+The accuracy for dress is 0.00000
+Pixel accuracy: 84.28552
+Loss for Batch 6 of 300: 5.09748
+The accuracy for background is 85.22199
+The accuracy for skin is 31.50707
+The accuracy for hair is 0.00000
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 0.00000
+The accuracy for dress is 0.00000
+Pixel accuracy: 84.74750
+Loss for Batch 7 of 300: 4.91921
+The accuracy for background is 87.84146
+The accuracy for skin is 34.13014
+The accuracy for hair is 0.00000
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 0.00000
+The accuracy for dress is 0.00000
+Pixel accuracy: 85.11116
+Loss for Batch 8 of 300: 4.74357
+The accuracy for background is 85.88659
+The accuracy for skin is 38.63002
+The accuracy for hair is 0.00000
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 0.00000
+The accuracy for dress is 0.00000
+Pixel accuracy: 85.18729
+Loss for Batch 9 of 300: 4.57935
+The accuracy for background is 87.31453
+The accuracy for skin is 41.16114
+The accuracy for hair is 0.00000
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 0.00000
+The accuracy for dress is 0.00000
+Pixel accuracy: 85.48023
+Loss for Batch 10 of 300: 4.45727
+The accuracy for background is 86.96783
+The accuracy for skin is 43.08336
+The accuracy for hair is 0.00010
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 1.24931
+The accuracy for dress is 0.11470
+Pixel accuracy: 85.60167
+Loss for Batch 11 of 300: 4.30762
+The accuracy for background is 88.09644
+The accuracy for skin is 44.19701
+The accuracy for hair is 0.00010
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 13.85291
+The accuracy for dress is 2.93892
+Pixel accuracy: 86.06695
+Loss for Batch 12 of 300: 4.06806
+The accuracy for background is 89.91829
+The accuracy for skin is 44.22338
+The accuracy for hair is 0.05643
+The accuracy for tshirt is 0.00000
+The accuracy for shoes is 0.00000
+The accuracy for pants is 19.68116
+The accuracy for dress is 16.08339
+Pixel accuracy: 86.30188
+Loss for Batch 13 of 300: 3.88904
+The accuracy for background is 90.38987
+The accuracy for skin is 46.46461
+The accuracy for hair is 4.35682
+The accuracy for tshirt is 0.00007
+The accuracy for shoes is 0.00000
+The accuracy for pants is 23.83651
+The accuracy for dress is 3.32715
+Pixel accuracy: 86.30909
+Loss for Batch 14 of 300: 3.76001
+The accuracy for background is 90.40511
+The accuracy for skin is 51.71270
+The accuracy for hair is 31.34936
+The accuracy for tshirt is 0.00192
+The accuracy for shoes is 0.00806
+The accuracy for pants is 29.28985
+The accuracy for dress is 8.21014
+Pixel accuracy: 87.28044
+Loss for Batch 15 of 300: 3.54594
+The accuracy for background is 90.32389
+The accuracy for skin is 53.31600
+The accuracy for hair is 50.21965
+The accuracy for tshirt is 0.00831
+The accuracy for shoes is 5.97809
+The accuracy for pants is 21.57977
+The accuracy for dress is 22.84267
+Pixel accuracy: 88.14643
+Loss for Batch 16 of 300: 3.33680
+The accuracy for background is 90.11127
+The accuracy for skin is 55.52013
+The accuracy for hair is 49.48406
+The accuracy for tshirt is 0.01399
+The accuracy for shoes is 19.58165
+The accuracy for pants is 31.94126
+The accuracy for dress is 14.88546
+Pixel accuracy: 88.36764
+Loss for Batch 17 of 300: 3.11016
+The accuracy for background is 91.20374
+The accuracy for skin is 56.92930
+The accuracy for hair is 55.44345
+The accuracy for tshirt is 0.28430
+The accuracy for shoes is 30.93165
+The accuracy for pants is 38.46106
+The accuracy for dress is 26.22880
+Pixel accuracy: 88.61265
+Loss for Batch 18 of 300: 2.97909
+The accuracy for background is 91.04960
+The accuracy for skin is 58.55838
+The accuracy for hair is 56.55201
+The accuracy for tshirt is 2.25845
+The accuracy for shoes is 31.96463
+The accuracy for pants is 38.24437
+The accuracy for dress is 25.91802
+Pixel accuracy: 89.12116
+Loss for Batch 19 of 300: 2.77498
+The accuracy for background is 91.29060
+The accuracy for skin is 58.91350
+The accuracy for hair is 56.49474
+The accuracy for tshirt is 6.29487
+The accuracy for shoes is 36.04046
+The accuracy for pants is 41.20985
+The accuracy for dress is 26.10030
+Pixel accuracy: 89.34086
+Loss for Batch 20 of 300: 2.68251
+The accuracy for background is 91.26099
+The accuracy for skin is 59.22238
+The accuracy for hair is 56.32596
+The accuracy for tshirt is 3.81274
+The accuracy for shoes is 38.22875
+The accuracy for pants is 41.82757
+The accuracy for dress is 28.55647
+Pixel accuracy: 89.41312
+Loss for Batch 21 of 300: 2.56701
+The accuracy for background is 91.28623
+The accuracy for skin is 58.94045
+The accuracy for hair is 55.79661
+The accuracy for tshirt is 16.34429
+The accuracy for shoes is 39.18258
+The accuracy for pants is 43.00411
+The accuracy for dress is 28.54563
+Pixel accuracy: 88.96054
+Loss for Batch 22 of 300: 2.43287
+The accuracy for background is 91.44927
+The accuracy for skin is 59.26968
+The accuracy for hair is 57.97985
+The accuracy for tshirt is 14.56426
+The accuracy for shoes is 39.05541
+The accuracy for pants is 43.67399
+The accuracy for dress is 28.14454
+Pixel accuracy: 89.67397
+Loss for Batch 23 of 300: 2.28035
+The accuracy for background is 91.28848
+The accuracy for skin is 60.55869
+The accuracy for hair is 58.03442
+The accuracy for tshirt is 18.11822
+The accuracy for shoes is 38.81608
+The accuracy for pants is 43.30344
+The accuracy for dress is 28.33006
+Pixel accuracy: 89.39197
+Loss for Batch 24 of 300: 2.16240
+The accuracy for background is 91.49825
+The accuracy for skin is 59.32370
+The accuracy for hair is 58.53740
+The accuracy for tshirt is 18.24756
+The accuracy for shoes is 37.84023
+The accuracy for pants is 43.06902
+The accuracy for dress is 30.21522
+Pixel accuracy: 89.70473
+Loss for Batch 25 of 300: 2.05276
+The accuracy for background is 91.11356
+The accuracy for skin is 59.60471
+The accuracy for hair is 57.84546
+The accuracy for tshirt is 14.31920
+The accuracy for shoes is 38.29558
+The accuracy for pants is 39.09445
+The accuracy for dress is 28.67517
+Pixel accuracy: 89.67817
+Loss for Batch 26 of 300: 2.03310
+The accuracy for background is 91.41168
+The accuracy for skin is 59.47247
+The accuracy for hair is 59.05031
+The accuracy for tshirt is 19.88878
+The accuracy for shoes is 36.96224
+The accuracy for pants is 44.72756
+The accuracy for dress is 31.09087
+Pixel accuracy: 89.49828
+Loss for Batch 27 of 300: 1.87922
+The accuracy for background is 91.49897
+The accuracy for skin is 60.77361
+The accuracy for hair is 59.59559
+The accuracy for tshirt is 18.90035
+The accuracy for shoes is 39.91599
+The accuracy for pants is 44.43261
+The accuracy for dress is 27.03844
+Pixel accuracy: 89.99932
+Loss for Batch 28 of 300: 1.78539
+The accuracy for background is 91.32347
+The accuracy for skin is 60.20310
+The accuracy for hair is 57.53620
+The accuracy for tshirt is 18.48523
+The accuracy for shoes is 33.11891
+The accuracy for pants is 45.29315
+The accuracy for dress is 31.00296
+Pixel accuracy: 89.86130
+Loss for Batch 29 of 300: 1.69240
+The accuracy for background is 91.35819
+The accuracy for skin is 61.25561
+The accuracy for hair is 57.96789
+The accuracy for tshirt is 18.56106
+The accuracy for shoes is 37.50291
+The accuracy for pants is 42.51314
+The accuracy for dress is 31.01651
+Pixel accuracy: 89.85274
+Loss for Batch 30 of 300: 1.59570
+The accuracy for background is 91.46899
+The accuracy for skin is 61.51386
+The accuracy for hair is 58.67678
+The accuracy for tshirt is 20.52927
+The accuracy for shoes is 37.10213
+The accuracy for pants is 46.09657
+The accuracy for dress is 30.93369
+Pixel accuracy: 89.91712
+Loss for Batch 31 of 300: 1.56374
+The accuracy for background is 91.45749
+The accuracy for skin is 61.27525
+The accuracy for hair is 59.26793
+The accuracy for tshirt is 19.39837
+The accuracy for shoes is 40.49956
+The accuracy for pants is 44.43772
+The accuracy for dress is 30.02178
+Pixel accuracy: 89.78524
+Loss for Batch 32 of 300: 1.46808
+The accuracy for background is 91.61690
+The accuracy for skin is 61.63987
+The accuracy for hair is 59.74927
+The accuracy for tshirt is 19.09387
+The accuracy for shoes is 38.74542
+The accuracy for pants is 43.04259
+The accuracy for dress is 33.19374
+Pixel accuracy: 90.02165
+Loss for Batch 33 of 300: 1.42767
+The accuracy for background is 91.56831
+The accuracy for skin is 60.88754
+The accuracy for hair is 58.12413
+The accuracy for tshirt is 19.69677
+The accuracy for shoes is 39.56336
+The accuracy for pants is 44.43572
+The accuracy for dress is 33.35314
+Pixel accuracy: 89.86691
+Loss for Batch 34 of 300: 1.29017
+The accuracy for background is 91.68767
+The accuracy for skin is 61.75160
+The accuracy for hair is 60.10303
+The accuracy for tshirt is 19.02345
+The accuracy for shoes is 38.32295
+The accuracy for pants is 45.58153
+The accuracy for dress is 32.66975
+Pixel accuracy: 89.89328
+Loss for Batch 35 of 300: 1.22660
+The accuracy for background is 91.61861
+The accuracy for skin is 61.77046
+The accuracy for hair is 59.77300
+The accuracy for tshirt is 20.24416
+The accuracy for shoes is 40.67945
+The accuracy for pants is 46.53896
+The accuracy for dress is 32.79121
+Pixel accuracy: 89.99014
+Loss for Batch 36 of 300: 1.16993
+The accuracy for background is 91.49071
+The accuracy for skin is 61.93601
+The accuracy for hair is 57.65608
+The accuracy for tshirt is 17.63900
+The accuracy for shoes is 38.06876
+The accuracy for pants is 45.18193
+The accuracy for dress is 32.66551
+Pixel accuracy: 89.98191
+Loss for Batch 37 of 300: 1.12921
+The accuracy for background is 91.65386
+The accuracy for skin is 61.88591
+The accuracy for hair is 60.51490
+The accuracy for tshirt is 21.02683
+The accuracy for shoes is 39.49081
+The accuracy for pants is 43.23104
+The accuracy for dress is 32.53707
+Pixel accuracy: 89.97996
+Loss for Batch 38 of 300: 1.09319
+The accuracy for background is 91.24452
+The accuracy for skin is 59.66281
+The accuracy for hair is 54.72816
+The accuracy for tshirt is 18.88538
+The accuracy for shoes is 33.51654
+The accuracy for pants is 41.39631
+The accuracy for dress is 32.78298
+Pixel accuracy: 89.79051
+Loss for Batch 39 of 300: 1.04134
+The accuracy for background is 91.44042
+The accuracy for skin is 62.17691
+The accuracy for hair is 58.96446
+The accuracy for tshirt is 17.81269
+The accuracy for shoes is 39.37197
+The accuracy for pants is 44.93595
+The accuracy for dress is 31.42442
+Pixel accuracy: 90.12327
+Loss for Batch 40 of 300: 0.98124
+The accuracy for background is 91.58307
+The accuracy for skin is 62.77909
+The accuracy for hair is 60.44459
+The accuracy for tshirt is 18.38159
+The accuracy for shoes is 39.95140
+The accuracy for pants is 46.71278
+The accuracy for dress is 33.07662
+Pixel accuracy: 89.96622
+Loss for Batch 41 of 300: 0.97691
+The accuracy for background is 91.65705
+The accuracy for skin is 63.14035
+The accuracy for hair is 60.14731
+The accuracy for tshirt is 19.58687
+The accuracy for shoes is 38.75487
+The accuracy for pants is 46.11893
+The accuracy for dress is 32.98770
+Pixel accuracy: 89.94997
+Loss for Batch 42 of 300: 0.91497
+The accuracy for background is 91.66049
+The accuracy for skin is 62.95173
+The accuracy for hair is 58.71586
+The accuracy for tshirt is 20.57418
+The accuracy for shoes is 39.98623
+The accuracy for pants is 46.43902
+The accuracy for dress is 32.29735
+Pixel accuracy: 89.96075
+Loss for Batch 43 of 300: 0.87612
+The accuracy for background is 91.64015
+The accuracy for skin is 62.30434
+The accuracy for hair is 60.52628
+The accuracy for tshirt is 19.55170
+The accuracy for shoes is 39.21181
+The accuracy for pants is 46.47763
+The accuracy for dress is 33.10453
+Pixel accuracy: 90.07647
+Loss for Batch 44 of 300: 0.85685
+The accuracy for background is 91.48257
+The accuracy for skin is 63.04801
+The accuracy for hair is 59.40656
+The accuracy for tshirt is 19.51015
+The accuracy for shoes is 36.57404
+The accuracy for pants is 46.97660
+The accuracy for dress is 32.69408
+Pixel accuracy: 90.01048
+Loss for Batch 45 of 300: 0.83669
+The accuracy for background is 91.54994
+The accuracy for skin is 62.55120
+The accuracy for hair is 59.42332
+The accuracy for tshirt is 18.39780
+The accuracy for shoes is 39.27372
+The accuracy for pants is 46.19168
+The accuracy for dress is 33.68385
+Pixel accuracy: 90.17288
+Loss for Batch 46 of 300: 0.81315
+The accuracy for background is 91.64055
+The accuracy for skin is 62.99392
+The accuracy for hair is 59.83290
+The accuracy for tshirt is 19.17702
+The accuracy for shoes is 39.56410
+The accuracy for pants is 45.28891
+The accuracy for dress is 33.64098
+Pixel accuracy: 90.12046
+Loss for Batch 47 of 300: 0.77532
+The accuracy for background is 91.53243
+The accuracy for skin is 62.54122
+The accuracy for hair is 59.00071
+The accuracy for tshirt is 18.06613
+The accuracy for shoes is 36.27908
+The accuracy for pants is 46.69000
+The accuracy for dress is 32.88642
+Pixel accuracy: 90.10666
+Loss for Batch 48 of 300: 0.75580
+The accuracy for background is 91.66269
+The accuracy for skin is 63.17991
+The accuracy for hair is 60.58936
+The accuracy for tshirt is 21.02462
+The accuracy for shoes is 39.88426
+The accuracy for pants is 47.06427
+The accuracy for dress is 32.98838
+Pixel accuracy: 90.10395
+Loss for Batch 49 of 300: 0.73838
+The accuracy for background is 91.58574
+The accuracy for skin is 63.28659
+The accuracy for hair is 60.67942
+The accuracy for tshirt is 20.46830
+The accuracy for shoes is 38.77281
+The accuracy for pants is 46.83591
+The accuracy for dress is 33.03288
+Pixel accuracy: 89.98929
+Loss for Batch 50 of 300: 0.75885
+The accuracy for background is 91.56224
+The accuracy for skin is 63.18690
+The accuracy for hair is 60.09333
+The accuracy for tshirt is 21.27021
+The accuracy for shoes is 38.58559
+The accuracy for pants is 46.66716
+The accuracy for dress is 33.43092
+Pixel accuracy: 90.02596
+Loss for Batch 51 of 300: 0.73622
+The accuracy for background is 91.71894
+The accuracy for skin is 63.23459
+The accuracy for hair is 61.09663
+The accuracy for tshirt is 19.30125
+The accuracy for shoes is 39.60588
+The accuracy for pants is 46.01548
+The accuracy for dress is 33.65563
+Pixel accuracy: 90.20156
+Loss for Batch 52 of 300: 0.73973
+The accuracy for background is 91.71616
+The accuracy for skin is 63.76532
+The accuracy for hair is 59.94593
+The accuracy for tshirt is 19.99908
+The accuracy for shoes is 40.82311
+The accuracy for pants is 46.55780
+The accuracy for dress is 34.15656
+Pixel accuracy: 90.15622
+Loss for Batch 53 of 300: 0.71063
+The accuracy for background is 91.62852
+The accuracy for skin is 63.29439
+The accuracy for hair is 60.41014
+The accuracy for tshirt is 18.75716
+The accuracy for shoes is 39.00325
+The accuracy for pants is 46.89640
+The accuracy for dress is 33.23401
+Pixel accuracy: 90.05070
+Loss for Batch 54 of 300: 0.69079
+The accuracy for background is 91.51672
+The accuracy for skin is 63.06936
+The accuracy for hair is 59.92318
+The accuracy for tshirt is 19.40558
+The accuracy for shoes is 39.48431
+The accuracy for pants is 44.40613
+The accuracy for dress is 32.97277
+Pixel accuracy: 90.18876
+Loss for Batch 55 of 300: 0.67144
+The accuracy for background is 91.57053
+The accuracy for skin is 63.95856
+The accuracy for hair is 60.50684
+The accuracy for tshirt is 18.17965
+The accuracy for shoes is 40.31629
+The accuracy for pants is 47.08941
+The accuracy for dress is 33.41361
+Pixel accuracy: 90.13317
+Loss for Batch 56 of 300: 0.65130
+The accuracy for background is 91.71887
+The accuracy for skin is 62.91600
+The accuracy for hair is 60.43208
+The accuracy for tshirt is 21.05508
+The accuracy for shoes is 39.51119
+The accuracy for pants is 46.10695
+The accuracy for dress is 33.75670
+Pixel accuracy: 90.27132
+Loss for Batch 57 of 300: 0.68591
+The accuracy for background is 91.54585
+The accuracy for skin is 63.05317
+The accuracy for hair is 59.94062
+The accuracy for tshirt is 19.86028
+The accuracy for shoes is 39.65035
+The accuracy for pants is 46.08689
+The accuracy for dress is 31.68884
+Pixel accuracy: 90.13598
+Loss for Batch 58 of 300: 0.65141
+The accuracy for background is 91.49519
+The accuracy for skin is 63.25869
+The accuracy for hair is 59.90337
+The accuracy for tshirt is 19.20255
+The accuracy for shoes is 39.47289
+The accuracy for pants is 46.01071
+The accuracy for dress is 33.25236
+Pixel accuracy: 90.21003
+Loss for Batch 59 of 300: 0.64604
+The accuracy for background is 91.76165
+The accuracy for skin is 62.96045
+The accuracy for hair is 60.34326
+The accuracy for tshirt is 18.42512
+The accuracy for shoes is 39.64044
+The accuracy for pants is 47.15110
+The accuracy for dress is 32.79443
+Pixel accuracy: 90.17452
+Loss for Batch 60 of 300: 0.62495
+The accuracy for background is 91.49935
+The accuracy for skin is 63.41014
+The accuracy for hair is 60.23916
+The accuracy for tshirt is 18.58273
+The accuracy for shoes is 39.69299
+The accuracy for pants is 47.06081
+The accuracy for dress is 32.48242
+Pixel accuracy: 90.06010
+Loss for Batch 61 of 300: 0.59302
+The accuracy for background is 91.76692
+The accuracy for skin is 63.88819
+The accuracy for hair is 61.16832
+The accuracy for tshirt is 21.29593
+The accuracy for shoes is 40.95409
+The accuracy for pants is 48.02253
+The accuracy for dress is 33.51553
+Pixel accuracy: 90.15637
+Loss for Batch 62 of 300: 0.59204
+The accuracy for background is 91.51580
+The accuracy for skin is 63.51441
+The accuracy for hair is 60.15021
+The accuracy for tshirt is 19.27941
+The accuracy for shoes is 39.75485
+The accuracy for pants is 47.18949
+The accuracy for dress is 32.51992
+Pixel accuracy: 90.16928
+Loss for Batch 63 of 300: 0.58995
+The accuracy for background is 91.55884
+The accuracy for skin is 63.55631
+The accuracy for hair is 59.21452
+The accuracy for tshirt is 18.53429
+The accuracy for shoes is 39.65135
+The accuracy for pants is 45.71289
+The accuracy for dress is 33.01060
+Pixel accuracy: 90.26686
+Loss for Batch 64 of 300: 0.57292
+The accuracy for background is 91.49374
+The accuracy for skin is 63.04364
+The accuracy for hair is 58.35584
+The accuracy for tshirt is 18.27493
+The accuracy for shoes is 36.80548
+The accuracy for pants is 44.58994
+The accuracy for dress is 33.03869
+Pixel accuracy: 90.21183
+Loss for Batch 65 of 300: 0.58022
+The accuracy for background is 91.65743
+The accuracy for skin is 63.57157
+The accuracy for hair is 58.19489
+The accuracy for tshirt is 20.14310
+The accuracy for shoes is 38.74706
+The accuracy for pants is 47.26055
+The accuracy for dress is 33.96489
+Pixel accuracy: 90.05433
+Loss for Batch 66 of 300: 0.58035
+The accuracy for background is 91.61809
+The accuracy for skin is 63.60935
+The accuracy for hair is 61.20873
+The accuracy for tshirt is 18.96669
+The accuracy for shoes is 38.88106
+The accuracy for pants is 46.35784
+The accuracy for dress is 33.15808
+Pixel accuracy: 90.31191
+Loss for Batch 67 of 300: 0.57303
+The accuracy for background is 91.60965
+The accuracy for skin is 63.57850
+The accuracy for hair is 61.65367
+The accuracy for tshirt is 21.13253
+The accuracy for shoes is 39.90937
+The accuracy for pants is 47.08011
+The accuracy for dress is 33.53436
+Pixel accuracy: 90.16344
+Loss for Batch 68 of 300: 0.55486
+The accuracy for background is 91.63961
+The accuracy for skin is 63.54059
+The accuracy for hair is 59.97158
+The accuracy for tshirt is 20.21450
+The accuracy for shoes is 38.79094
+The accuracy for pants is 46.94802
+The accuracy for dress is 32.74695
+Pixel accuracy: 90.33951
+Loss for Batch 69 of 300: 0.53278
+The accuracy for background is 91.69072
+The accuracy for skin is 63.52286
+The accuracy for hair is 60.79471
+The accuracy for tshirt is 18.80536
+The accuracy for shoes is 39.82161
+The accuracy for pants is 47.75660
+The accuracy for dress is 32.81810
+Pixel accuracy: 90.11859
+Loss for Batch 70 of 300: 0.52179
+The accuracy for background is 91.49314
+The accuracy for skin is 62.95565
+The accuracy for hair is 59.28502
+The accuracy for tshirt is 19.39840
+The accuracy for shoes is 38.26403
+The accuracy for pants is 46.40161
+The accuracy for dress is 33.39174
+Pixel accuracy: 90.11515
+Loss for Batch 71 of 300: 0.52580
+The accuracy for background is 91.63348
+The accuracy for skin is 63.78549
+The accuracy for hair is 58.69114
+The accuracy for tshirt is 18.36116
+The accuracy for shoes is 38.38844
+The accuracy for pants is 45.37658
+The accuracy for dress is 33.84626
+Pixel accuracy: 90.23971
+Loss for Batch 72 of 300: 0.53174
+The accuracy for background is 91.63657
+The accuracy for skin is 63.68875
+The accuracy for hair is 60.52001
+The accuracy for tshirt is 17.11923
+The accuracy for shoes is 39.92604
+The accuracy for pants is 47.64654
+The accuracy for dress is 31.72578
+Pixel accuracy: 90.20435
+Loss for Batch 73 of 300: 0.56718
+The accuracy for background is 91.59708
+The accuracy for skin is 63.64532
+The accuracy for hair is 61.23101
+The accuracy for tshirt is 21.99462
+The accuracy for shoes is 40.09865
+The accuracy for pants is 46.70328
+The accuracy for dress is 33.02329
+Pixel accuracy: 89.97830
+Loss for Batch 74 of 300: 0.58864
+The accuracy for background is 91.69295
+The accuracy for skin is 64.39527
+The accuracy for hair is 59.81637
+The accuracy for tshirt is 22.66653
+The accuracy for shoes is 41.69031
+The accuracy for pants is 47.43345
+The accuracy for dress is 33.25795
+Pixel accuracy: 90.11956
+Loss for Batch 75 of 300: 0.53050
+The accuracy for background is 91.70157
+The accuracy for skin is 63.38703
+The accuracy for hair is 59.76355
+The accuracy for tshirt is 19.09597
+The accuracy for shoes is 39.97834
+The accuracy for pants is 47.35137
+The accuracy for dress is 33.28956
+Pixel accuracy: 90.28141
+Loss for Batch 76 of 300: 0.52530
+The accuracy for background is 91.66745
+The accuracy for skin is 64.19799
+The accuracy for hair is 59.37563
+The accuracy for tshirt is 20.34033
+The accuracy for shoes is 38.58662
+The accuracy for pants is 46.89528
+The accuracy for dress is 33.22873
+Pixel accuracy: 90.21215
+Loss for Batch 77 of 300: 0.49845
+The accuracy for background is 91.61778
+The accuracy for skin is 63.84140
+The accuracy for hair is 59.82207
+The accuracy for tshirt is 18.07162
+The accuracy for shoes is 38.78039
+The accuracy for pants is 45.50771
+The accuracy for dress is 32.88710
+Pixel accuracy: 90.19670
+Loss for Batch 78 of 300: 0.49127
+The accuracy for background is 91.66123
+The accuracy for skin is 63.57913
+The accuracy for hair is 60.17322
+The accuracy for tshirt is 19.32677
+The accuracy for shoes is 38.25810
+The accuracy for pants is 45.40979
+The accuracy for dress is 33.56634
+Pixel accuracy: 90.22402
+Loss for Batch 79 of 300: 0.49339
+The accuracy for background is 91.72874
+The accuracy for skin is 63.96720
+The accuracy for hair is 59.86023
+The accuracy for tshirt is 18.99123
+The accuracy for shoes is 38.32699
+The accuracy for pants is 45.99014
+The accuracy for dress is 34.33106
+Pixel accuracy: 90.23963
+Loss for Batch 80 of 300: 0.48910
+The accuracy for background is 91.76037
+The accuracy for skin is 63.89357
+The accuracy for hair is 59.89049
+The accuracy for tshirt is 19.34393
+The accuracy for shoes is 38.74565
+The accuracy for pants is 47.07503
+The accuracy for dress is 33.77496
+Pixel accuracy: 90.27523
+Loss for Batch 81 of 300: 0.46950
+The accuracy for background is 91.76303
+The accuracy for skin is 63.81468
+The accuracy for hair is 60.81899
+The accuracy for tshirt is 20.77977
+The accuracy for shoes is 40.14634
+The accuracy for pants is 47.82802
+The accuracy for dress is 33.45987
+Pixel accuracy: 90.11539
+Loss for Batch 82 of 300: 0.49895
+The accuracy for background is 91.50664
+The accuracy for skin is 63.77241
+The accuracy for hair is 60.36770
+The accuracy for tshirt is 17.84549
+The accuracy for shoes is 38.84184
+The accuracy for pants is 44.35694
+The accuracy for dress is 31.54304
+Pixel accuracy: 90.26385
+Loss for Batch 83 of 300: 0.48830
+The accuracy for background is 91.57652
+The accuracy for skin is 63.91230
+The accuracy for hair is 60.72443
+The accuracy for tshirt is 18.82007
+The accuracy for shoes is 39.52876
+The accuracy for pants is 47.22874
+The accuracy for dress is 33.08733
+Pixel accuracy: 90.24213
+Loss for Batch 84 of 300: 0.47247
+The accuracy for background is 91.67786
+The accuracy for skin is 64.10080
+The accuracy for hair is 60.96768
+The accuracy for tshirt is 19.22765
+The accuracy for shoes is 40.07924
+The accuracy for pants is 47.52918
+The accuracy for dress is 32.99903
+Pixel accuracy: 90.09468
+Loss for Batch 85 of 300: 0.47189
+The accuracy for background is 91.62834
+The accuracy for skin is 64.11503
+The accuracy for hair is 60.14418
+The accuracy for tshirt is 19.12956
+The accuracy for shoes is 40.48182
+The accuracy for pants is 45.90819
+The accuracy for dress is 33.44665
+Pixel accuracy: 90.14215
+Loss for Batch 86 of 300: 0.45281
+The accuracy for background is 91.67091
+The accuracy for skin is 63.46634
+The accuracy for hair is 58.76003
+The accuracy for tshirt is 18.95153
+The accuracy for shoes is 38.22491
+The accuracy for pants is 45.68852
+The accuracy for dress is 33.13709
+Pixel accuracy: 90.06968
+Loss for Batch 87 of 300: 0.44652
+The accuracy for background is 91.59080
+The accuracy for skin is 63.57923
+The accuracy for hair is 59.92939
+The accuracy for tshirt is 17.56462
+The accuracy for shoes is 39.15082
+The accuracy for pants is 46.92325
+The accuracy for dress is 33.08639
+Pixel accuracy: 90.25124
+Loss for Batch 88 of 300: 0.43185
+The accuracy for background is 91.77592
+The accuracy for skin is 64.03388
+The accuracy for hair is 60.87182
+The accuracy for tshirt is 21.01868
+The accuracy for shoes is 40.31423
+The accuracy for pants is 46.61009
+The accuracy for dress is 33.90110
+Pixel accuracy: 90.41600
+Loss for Batch 89 of 300: 0.43220
+The accuracy for background is 91.76259
+The accuracy for skin is 64.16925
+The accuracy for hair is 60.61627
+The accuracy for tshirt is 20.27181
+The accuracy for shoes is 40.37035
+The accuracy for pants is 47.48331
+The accuracy for dress is 33.66206
+Pixel accuracy: 90.31095
+Loss for Batch 90 of 300: 0.42856
+The accuracy for background is 91.73919
+The accuracy for skin is 64.06966
+The accuracy for hair is 59.75981
+The accuracy for tshirt is 19.20243
+The accuracy for shoes is 39.14240
+The accuracy for pants is 47.77903
+The accuracy for dress is 33.47313
+Pixel accuracy: 90.26895
+Loss for Batch 91 of 300: 0.43553
+The accuracy for background is 91.73993
+The accuracy for skin is 63.46385
+The accuracy for hair is 61.02698
+The accuracy for tshirt is 20.80301
+The accuracy for shoes is 38.86331
+The accuracy for pants is 47.40016
+The accuracy for dress is 33.05082
+Pixel accuracy: 90.18462
+Loss for Batch 92 of 300: 0.43343
+The accuracy for background is 91.61209
+The accuracy for skin is 63.52611
+The accuracy for hair is 61.22119
+The accuracy for tshirt is 18.75504
+The accuracy for shoes is 39.22983
+The accuracy for pants is 47.13264
+The accuracy for dress is 32.39705
+Pixel accuracy: 90.26283
+Loss for Batch 93 of 300: 0.43575
+The accuracy for background is 91.70264
+The accuracy for skin is 64.33394
+The accuracy for hair is 60.18113
+The accuracy for tshirt is 17.08360
+The accuracy for shoes is 37.99865
+The accuracy for pants is 46.04517
+The accuracy for dress is 32.61238
+Pixel accuracy: 90.20276
+Loss for Batch 94 of 300: 0.43549
+The accuracy for background is 91.60538
+The accuracy for skin is 63.82399
+The accuracy for hair is 60.61037
+The accuracy for tshirt is 19.75648
+The accuracy for shoes is 38.36503
+The accuracy for pants is 47.50846
+The accuracy for dress is 32.86701
+Pixel accuracy: 90.23787
+Loss for Batch 95 of 300: 0.43286
+The accuracy for background is 91.68334
+The accuracy for skin is 64.01116
+The accuracy for hair is 60.38752
+The accuracy for tshirt is 20.12413
+The accuracy for shoes is 39.30153
+The accuracy for pants is 47.24133
+The accuracy for dress is 32.73142
+Pixel accuracy: 90.11852
+Loss for Batch 96 of 300: 0.42535
+The accuracy for background is 91.82393
+The accuracy for skin is 64.37447
+The accuracy for hair is 60.96764
+The accuracy for tshirt is 21.12177
+The accuracy for shoes is 38.90768
+The accuracy for pants is 46.64742
+The accuracy for dress is 34.25266
+Pixel accuracy: 90.27669
+Loss for Batch 97 of 300: 0.42080
+The accuracy for background is 91.65511
+The accuracy for skin is 64.60526
+The accuracy for hair is 62.34687
+The accuracy for tshirt is 22.26257
+The accuracy for shoes is 39.06764
+The accuracy for pants is 47.44127
+The accuracy for dress is 32.27620
+Pixel accuracy: 89.89265
+Loss for Batch 98 of 300: 0.44398
+The accuracy for background is 91.56345
+The accuracy for skin is 63.75575
+The accuracy for hair is 59.80566
+The accuracy for tshirt is 18.65515
+The accuracy for shoes is 40.54961
+The accuracy for pants is 47.06777
+The accuracy for dress is 32.83409
+Pixel accuracy: 90.17191
+Loss for Batch 99 of 300: 0.44151
+The accuracy for background is 91.59025
+The accuracy for skin is 63.34288
+The accuracy for hair is 58.77917
+The accuracy for tshirt is 20.58548
+The accuracy for shoes is 38.51914
+The accuracy for pants is 47.37431
+The accuracy for dress is 31.96628
+Pixel accuracy: 90.01003
+Loss for Batch 100 of 300: 1.47092
+The accuracy for background is 91.14244
+The accuracy for skin is 63.09833
+The accuracy for hair is 59.39978
+The accuracy for tshirt is 10.93031
+The accuracy for shoes is 38.70433
+The accuracy for pants is 41.76009
+The accuracy for dress is 31.37418
+Pixel accuracy: 89.98385
+Loss for Batch 101 of 300: 1.05026
+The accuracy for background is 91.49059
+The accuracy for skin is 61.44143
+The accuracy for hair is 61.54004
+The accuracy for tshirt is 16.78364
+The accuracy for shoes is 40.27529
+The accuracy for pants is 43.31345
+The accuracy for dress is 34.37166
+Pixel accuracy: 90.14740
+Loss for Batch 102 of 300: 0.55610
+The accuracy for background is 91.81714
+The accuracy for skin is 64.58374
+The accuracy for hair is 61.09094
+The accuracy for tshirt is 21.17625
+The accuracy for shoes is 39.73980
+The accuracy for pants is 47.71873
+The accuracy for dress is 34.84665
+Pixel accuracy: 90.28446
+Loss for Batch 103 of 300: 0.43965
+The accuracy for background is 91.89611
+The accuracy for skin is 64.57481
+The accuracy for hair is 61.32036
+The accuracy for tshirt is 20.78454
+The accuracy for shoes is 39.55643
+The accuracy for pants is 47.55701
+The accuracy for dress is 33.98181
+Pixel accuracy: 90.38461
+Loss for Batch 104 of 300: 0.40131
+The accuracy for background is 91.66582
+The accuracy for skin is 63.65874
+The accuracy for hair is 60.71526
+The accuracy for tshirt is 18.56512
+The accuracy for shoes is 39.57571
+The accuracy for pants is 46.52817
+The accuracy for dress is 34.66074
+Pixel accuracy: 90.39206
+Loss for Batch 105 of 300: 0.37954
+The accuracy for background is 91.79175
+The accuracy for skin is 64.72609
+The accuracy for hair is 61.58736
+The accuracy for tshirt is 20.73513
+The accuracy for shoes is 39.30924
+The accuracy for pants is 47.11088
+The accuracy for dress is 34.52145
+Pixel accuracy: 90.45522
+Loss for Batch 106 of 300: 0.36594
+The accuracy for background is 91.80908
+The accuracy for skin is 64.37035
+The accuracy for hair is 61.46718
+The accuracy for tshirt is 20.06431
+The accuracy for shoes is 40.42242
+The accuracy for pants is 47.21123
+The accuracy for dress is 34.90380
+Pixel accuracy: 90.41566
+Loss for Batch 107 of 300: 0.36086
+The accuracy for background is 91.86364
+The accuracy for skin is 64.58885
+The accuracy for hair is 60.82054
+The accuracy for tshirt is 19.43215
+The accuracy for shoes is 39.11830
+The accuracy for pants is 47.80744
+The accuracy for dress is 33.98331
+Pixel accuracy: 90.32323
+Loss for Batch 108 of 300: 0.34547
+The accuracy for background is 91.79542
+The accuracy for skin is 64.03897
+The accuracy for hair is 60.71289
+The accuracy for tshirt is 20.45361
+The accuracy for shoes is 39.67681
+The accuracy for pants is 47.66609
+The accuracy for dress is 33.88545
+Pixel accuracy: 90.31638
+Loss for Batch 109 of 300: 0.33602
+The accuracy for background is 91.78754
+The accuracy for skin is 64.19258
+The accuracy for hair is 60.97512
+The accuracy for tshirt is 19.26301
+The accuracy for shoes is 39.76699
+The accuracy for pants is 48.18060
+The accuracy for dress is 33.56739
+Pixel accuracy: 90.31967
+Loss for Batch 110 of 300: 0.33282
+The accuracy for background is 91.71963
+The accuracy for skin is 64.34362
+The accuracy for hair is 61.39447
+The accuracy for tshirt is 18.45826
+The accuracy for shoes is 38.97028
+The accuracy for pants is 47.24527
+The accuracy for dress is 33.79783
+Pixel accuracy: 90.35266
+Loss for Batch 111 of 300: 0.32639
+The accuracy for background is 91.74434
+The accuracy for skin is 64.13012
+The accuracy for hair is 60.41244
+The accuracy for tshirt is 18.36323
+The accuracy for shoes is 40.52205
+The accuracy for pants is 46.77863
+The accuracy for dress is 34.86645
+Pixel accuracy: 90.36716
+Loss for Batch 112 of 300: 0.32176
+The accuracy for background is 91.85416
+The accuracy for skin is 64.13769
+The accuracy for hair is 60.96345
+The accuracy for tshirt is 20.95514
+The accuracy for shoes is 40.26108
+The accuracy for pants is 47.26220
+The accuracy for dress is 33.65785
+Pixel accuracy: 90.33711
+Loss for Batch 113 of 300: 0.32287
+The accuracy for background is 91.71865
+The accuracy for skin is 64.05269
+The accuracy for hair is 61.34491
+The accuracy for tshirt is 21.04318
+The accuracy for shoes is 40.17939
+The accuracy for pants is 46.99787
+The accuracy for dress is 33.41989
+Pixel accuracy: 90.33435
+Loss for Batch 114 of 300: 0.32250
+The accuracy for background is 91.71720
+The accuracy for skin is 64.17572
+The accuracy for hair is 59.87419
+The accuracy for tshirt is 19.58655
+The accuracy for shoes is 39.30605
+The accuracy for pants is 46.54423
+The accuracy for dress is 33.61203
+Pixel accuracy: 90.26276
+Loss for Batch 115 of 300: 0.32729
+The accuracy for background is 91.74268
+The accuracy for skin is 64.25712
+The accuracy for hair is 61.08830
+The accuracy for tshirt is 18.90630
+The accuracy for shoes is 40.54114
+The accuracy for pants is 46.70124
+The accuracy for dress is 34.70186
+Pixel accuracy: 90.42856
+Loss for Batch 116 of 300: 0.35305
+The accuracy for background is 91.56608
+The accuracy for skin is 63.63542
+The accuracy for hair is 59.90101
+The accuracy for tshirt is 18.74754
+The accuracy for shoes is 38.22380
+The accuracy for pants is 46.68135
+The accuracy for dress is 33.96920
+Pixel accuracy: 90.27478
+Loss for Batch 117 of 300: 0.36181
+The accuracy for background is 91.82113
+The accuracy for skin is 64.37629
+The accuracy for hair is 61.18065
+The accuracy for tshirt is 19.46721
+The accuracy for shoes is 39.39913
+The accuracy for pants is 47.37273
+The accuracy for dress is 33.60485
+Pixel accuracy: 90.34420
+Loss for Batch 118 of 300: 0.37754
+The accuracy for background is 91.74609
+The accuracy for skin is 63.76414
+The accuracy for hair is 61.03206
+The accuracy for tshirt is 21.62386
+The accuracy for shoes is 38.92547
+The accuracy for pants is 46.89313
+The accuracy for dress is 34.14265
+Pixel accuracy: 90.19730
+Loss for Batch 119 of 300: 0.38885
+The accuracy for background is 91.86811
+The accuracy for skin is 64.36333
+The accuracy for hair is 61.32917
+The accuracy for tshirt is 22.45003
+The accuracy for shoes is 40.87951
+The accuracy for pants is 47.20562
+The accuracy for dress is 34.40158
+Pixel accuracy: 90.34804
+Loss for Batch 120 of 300: 0.38680
+The accuracy for background is 91.79766
+The accuracy for skin is 63.95074
+The accuracy for hair is 60.91776
+The accuracy for tshirt is 20.30918
+The accuracy for shoes is 40.81017
+The accuracy for pants is 47.80490
+The accuracy for dress is 33.86932
+Pixel accuracy: 90.21009
+Loss for Batch 121 of 300: 0.35165
+The accuracy for background is 91.66031
+The accuracy for skin is 63.98647
+The accuracy for hair is 60.82516
+The accuracy for tshirt is 19.06423
+The accuracy for shoes is 37.95253
+The accuracy for pants is 45.55403
+The accuracy for dress is 34.55249
+Pixel accuracy: 90.32249
+Loss for Batch 122 of 300: 0.34948
+The accuracy for background is 91.75318
+The accuracy for skin is 64.36738
+The accuracy for hair is 61.03670
+The accuracy for tshirt is 18.86536
+The accuracy for shoes is 40.37664
+The accuracy for pants is 46.75608
+The accuracy for dress is 33.77267
+Pixel accuracy: 90.42949
+Loss for Batch 123 of 300: 0.33846
+The accuracy for background is 91.89618
+The accuracy for skin is 64.13491
+The accuracy for hair is 61.68639
+The accuracy for tshirt is 20.19695
+The accuracy for shoes is 40.62557
+The accuracy for pants is 46.99646
+The accuracy for dress is 33.85622
+Pixel accuracy: 90.36071
+Loss for Batch 124 of 300: 0.34113
+The accuracy for background is 91.83835
+The accuracy for skin is 64.16371
+The accuracy for hair is 61.36328
+The accuracy for tshirt is 20.57273
+The accuracy for shoes is 39.62217
+The accuracy for pants is 47.67983
+The accuracy for dress is 33.55294
+Pixel accuracy: 90.36871
+Loss for Batch 125 of 300: 0.33389
+The accuracy for background is 91.80468
+The accuracy for skin is 63.70594
+The accuracy for hair is 62.29712
+The accuracy for tshirt is 21.42404
+The accuracy for shoes is 40.12941
+The accuracy for pants is 48.18787
+The accuracy for dress is 34.43925
+Pixel accuracy: 90.19639
+Loss for Batch 126 of 300: 0.36511
+The accuracy for background is 91.81885
+The accuracy for skin is 64.38091
+The accuracy for hair is 60.75847
+The accuracy for tshirt is 19.45425
+The accuracy for shoes is 40.01084
+The accuracy for pants is 46.83481
+The accuracy for dress is 35.34850
+Pixel accuracy: 90.27400
+Loss for Batch 127 of 300: 0.34602
+The accuracy for background is 91.83788
+The accuracy for skin is 64.23815
+The accuracy for hair is 61.94442
+The accuracy for tshirt is 21.93690
+The accuracy for shoes is 39.32248
+The accuracy for pants is 47.49329
+The accuracy for dress is 33.44425
+Pixel accuracy: 90.21205
+Loss for Batch 128 of 300: 0.37399
+The accuracy for background is 91.58948
+The accuracy for skin is 64.31864
+The accuracy for hair is 59.22679
+The accuracy for tshirt is 17.65298
+The accuracy for shoes is 38.74754
+The accuracy for pants is 45.86367
+The accuracy for dress is 32.99783
+Pixel accuracy: 90.30236
+Loss for Batch 129 of 300: 0.36776
+The accuracy for background is 91.59167
+The accuracy for skin is 63.30994
+The accuracy for hair is 59.33447
+The accuracy for tshirt is 18.62091
+The accuracy for shoes is 39.55496
+The accuracy for pants is 46.84334
+The accuracy for dress is 33.70606
+Pixel accuracy: 90.43708
+Loss for Batch 130 of 300: 0.39956
+The accuracy for background is 91.45352
+The accuracy for skin is 63.14010
+The accuracy for hair is 60.19527
+The accuracy for tshirt is 18.85784
+The accuracy for shoes is 39.20382
+The accuracy for pants is 46.21962
+The accuracy for dress is 32.57047
+Pixel accuracy: 90.29341
+Loss for Batch 131 of 300: 0.37749
+The accuracy for background is 91.47099
+The accuracy for skin is 63.51495
+The accuracy for hair is 58.81247
+The accuracy for tshirt is 15.61128
+The accuracy for shoes is 38.58905
+The accuracy for pants is 44.55984
+The accuracy for dress is 33.80715
+Pixel accuracy: 90.32852
+Loss for Batch 132 of 300: 0.37692
+The accuracy for background is 91.73744
+The accuracy for skin is 64.27624
+The accuracy for hair is 60.94678
+The accuracy for tshirt is 18.70852
+The accuracy for shoes is 39.16021
+The accuracy for pants is 47.50960
+The accuracy for dress is 33.50510
+Pixel accuracy: 90.36120
+Loss for Batch 133 of 300: 0.35136
+The accuracy for background is 91.86071
+The accuracy for skin is 64.57148
+The accuracy for hair is 61.83961
+The accuracy for tshirt is 20.81109
+The accuracy for shoes is 39.98549
+The accuracy for pants is 47.72461
+The accuracy for dress is 34.52157
+Pixel accuracy: 90.37262
+Loss for Batch 134 of 300: 0.33575
+The accuracy for background is 91.96209
+The accuracy for skin is 64.76117
+The accuracy for hair is 62.05998
+The accuracy for tshirt is 20.27049
+The accuracy for shoes is 40.30811
+The accuracy for pants is 47.64230
+The accuracy for dress is 34.51814
+Pixel accuracy: 90.33347
+Loss for Batch 135 of 300: 0.32417
+The accuracy for background is 91.72372
+The accuracy for skin is 63.98713
+The accuracy for hair is 60.87509
+The accuracy for tshirt is 19.15991
+The accuracy for shoes is 37.78309
+The accuracy for pants is 46.84951
+The accuracy for dress is 33.71970
+Pixel accuracy: 90.37364
+Loss for Batch 136 of 300: 0.32742
+The accuracy for background is 91.88615
+The accuracy for skin is 64.23248
+The accuracy for hair is 61.45575
+The accuracy for tshirt is 19.51577
+The accuracy for shoes is 41.19854
+The accuracy for pants is 48.49346
+The accuracy for dress is 33.92945
+Pixel accuracy: 90.17934
+Loss for Batch 137 of 300: 0.32594
+The accuracy for background is 91.86071
+The accuracy for skin is 64.03241
+The accuracy for hair is 61.29722
+The accuracy for tshirt is 20.01836
+The accuracy for shoes is 39.86522
+The accuracy for pants is 47.24352
+The accuracy for dress is 34.88598
+Pixel accuracy: 90.41091
+Loss for Batch 138 of 300: 0.32240
+The accuracy for background is 91.76821
+The accuracy for skin is 64.67038
+The accuracy for hair is 61.73355
+The accuracy for tshirt is 19.14571
+The accuracy for shoes is 40.25704
+The accuracy for pants is 46.72632
+The accuracy for dress is 33.51024
+Pixel accuracy: 90.34925
+Loss for Batch 139 of 300: 0.32598
+The accuracy for background is 91.79795
+The accuracy for skin is 64.47777
+The accuracy for hair is 61.19663
+The accuracy for tshirt is 19.79306
+The accuracy for shoes is 39.00444
+The accuracy for pants is 46.14056
+The accuracy for dress is 34.25999
+Pixel accuracy: 90.32684
+Loss for Batch 140 of 300: 0.31630
+The accuracy for background is 91.85329
+The accuracy for skin is 64.65827
+The accuracy for hair is 60.28809
+The accuracy for tshirt is 20.03663
+The accuracy for shoes is 40.50955
+The accuracy for pants is 47.59116
+The accuracy for dress is 34.05105
+Pixel accuracy: 90.37504
+Loss for Batch 141 of 300: 0.30561
+The accuracy for background is 91.73206
+The accuracy for skin is 64.69002
+The accuracy for hair is 61.24912
+The accuracy for tshirt is 20.36991
+The accuracy for shoes is 39.26943
+The accuracy for pants is 47.30937
+The accuracy for dress is 33.39193
+Pixel accuracy: 90.33083
+Loss for Batch 142 of 300: 0.30242
+The accuracy for background is 91.84909
+The accuracy for skin is 64.58400
+The accuracy for hair is 61.55272
+The accuracy for tshirt is 19.43057
+The accuracy for shoes is 40.26958
+The accuracy for pants is 47.42627
+The accuracy for dress is 33.44205
+Pixel accuracy: 90.41883
+Loss for Batch 143 of 300: 0.30462
+The accuracy for background is 91.72780
+The accuracy for skin is 64.50238
+The accuracy for hair is 60.58869
+The accuracy for tshirt is 18.74925
+The accuracy for shoes is 39.54375
+The accuracy for pants is 47.42481
+The accuracy for dress is 33.04350
+Pixel accuracy: 90.35012
+Loss for Batch 144 of 300: 0.30898
+The accuracy for background is 91.78474
+The accuracy for skin is 64.39739
+The accuracy for hair is 61.25834
+The accuracy for tshirt is 20.31480
+The accuracy for shoes is 40.75523
+The accuracy for pants is 47.03935
+The accuracy for dress is 33.70962
+Pixel accuracy: 90.37580
+Loss for Batch 145 of 300: 0.32943
+The accuracy for background is 91.84097
+The accuracy for skin is 64.14685
+The accuracy for hair is 61.18746
+The accuracy for tshirt is 19.41966
+The accuracy for shoes is 37.58452
+The accuracy for pants is 48.18117
+The accuracy for dress is 33.99600
+Pixel accuracy: 90.18405
+Loss for Batch 146 of 300: 0.33434
+The accuracy for background is 91.63714
+The accuracy for skin is 64.17156
+The accuracy for hair is 57.74646
+The accuracy for tshirt is 18.52770
+The accuracy for shoes is 38.79437
+The accuracy for pants is 46.06595
+The accuracy for dress is 33.56832
+Pixel accuracy: 90.20829
+Loss for Batch 147 of 300: 0.33078
+The accuracy for background is 91.81340
+The accuracy for skin is 64.71970
+The accuracy for hair is 62.12915
+The accuracy for tshirt is 20.83745
+The accuracy for shoes is 40.96669
+The accuracy for pants is 47.12570
+The accuracy for dress is 33.74209
+Pixel accuracy: 90.32463
+Loss for Batch 148 of 300: 0.31880
+The accuracy for background is 91.72442
+The accuracy for skin is 64.18918
+The accuracy for hair is 60.33099
+The accuracy for tshirt is 17.33541
+The accuracy for shoes is 40.55219
+The accuracy for pants is 47.42456
+The accuracy for dress is 33.02631
+Pixel accuracy: 90.34753
+Loss for Batch 149 of 300: 0.31544
+The accuracy for background is 91.71296
+The accuracy for skin is 64.64117
+The accuracy for hair is 61.17892
+The accuracy for tshirt is 20.86948
+The accuracy for shoes is 39.44185
+The accuracy for pants is 46.70234
+The accuracy for dress is 32.77058
+Pixel accuracy: 90.27472
+Loss for Batch 150 of 300: 0.31703
+The accuracy for background is 91.65436
+The accuracy for skin is 64.64205
+The accuracy for hair is 60.35389
+The accuracy for tshirt is 20.97773
+The accuracy for shoes is 38.05549
+The accuracy for pants is 47.00025
+The accuracy for dress is 33.63971
+Pixel accuracy: 90.37799
+Loss for Batch 151 of 300: 0.30836
+The accuracy for background is 91.80652
+The accuracy for skin is 64.47402
+The accuracy for hair is 60.99453
+The accuracy for tshirt is 19.02245
+The accuracy for shoes is 40.95938
+The accuracy for pants is 46.87642
+The accuracy for dress is 33.45560
+Pixel accuracy: 90.28458
+Loss for Batch 152 of 300: 0.30823
+The accuracy for background is 91.65949
+The accuracy for skin is 64.95191
+The accuracy for hair is 60.01142
+The accuracy for tshirt is 18.18773
+The accuracy for shoes is 38.45824
+The accuracy for pants is 47.10236
+The accuracy for dress is 32.87421
+Pixel accuracy: 90.34904
+Loss for Batch 153 of 300: 0.31105
+The accuracy for background is 91.82062
+The accuracy for skin is 64.62906
+The accuracy for hair is 61.11351
+The accuracy for tshirt is 18.86723
+The accuracy for shoes is 40.09754
+The accuracy for pants is 47.20711
+The accuracy for dress is 33.21972
+Pixel accuracy: 90.25071
+Loss for Batch 154 of 300: 0.31697
+The accuracy for background is 91.91312
+The accuracy for skin is 64.91806
+The accuracy for hair is 61.58331
+The accuracy for tshirt is 21.11294
+The accuracy for shoes is 40.74802
+The accuracy for pants is 48.08864
+The accuracy for dress is 34.55063
+Pixel accuracy: 90.34024
+Loss for Batch 155 of 300: 0.32502
+The accuracy for background is 91.84551
+The accuracy for skin is 64.97356
+The accuracy for hair is 62.16330
+The accuracy for tshirt is 20.61314
+The accuracy for shoes is 39.30320
+The accuracy for pants is 48.41525
+The accuracy for dress is 33.89526
+Pixel accuracy: 90.37759
+Loss for Batch 156 of 300: 0.31800
+The accuracy for background is 91.79412
+The accuracy for skin is 64.73830
+The accuracy for hair is 61.80882
+The accuracy for tshirt is 21.05280
+The accuracy for shoes is 40.01757
+The accuracy for pants is 47.60387
+The accuracy for dress is 34.06606
+Pixel accuracy: 90.34523
+Loss for Batch 157 of 300: 0.32598
+The accuracy for background is 91.71325
+The accuracy for skin is 64.65253
+The accuracy for hair is 59.85339
+The accuracy for tshirt is 18.45307
+The accuracy for shoes is 40.30629
+The accuracy for pants is 46.80655
+The accuracy for dress is 33.71011
+Pixel accuracy: 90.34297
+Loss for Batch 158 of 300: 0.32671
+The accuracy for background is 91.70074
+The accuracy for skin is 64.48345
+The accuracy for hair is 61.51661
+The accuracy for tshirt is 18.63063
+The accuracy for shoes is 39.51631
+The accuracy for pants is 46.13015
+The accuracy for dress is 33.13956
+Pixel accuracy: 90.28261
+Loss for Batch 159 of 300: 0.31885
+The accuracy for background is 91.83343
+The accuracy for skin is 64.88732
+The accuracy for hair is 62.41674
+The accuracy for tshirt is 21.65716
+The accuracy for shoes is 39.96831
+The accuracy for pants is 47.66391
+The accuracy for dress is 32.51721
+Pixel accuracy: 90.38086
+Loss for Batch 160 of 300: 0.32459
+The accuracy for background is 91.75733
+The accuracy for skin is 64.56094
+The accuracy for hair is 58.98406
+The accuracy for tshirt is 17.96190
+The accuracy for shoes is 37.79919
+The accuracy for pants is 47.53893
+The accuracy for dress is 33.47906
+Pixel accuracy: 90.38032
+Loss for Batch 161 of 300: 0.33878
+The accuracy for background is 91.71855
+The accuracy for skin is 65.20014
+The accuracy for hair is 61.53544
+The accuracy for tshirt is 21.63146
+The accuracy for shoes is 40.17489
+The accuracy for pants is 46.85511
+The accuracy for dress is 32.65723
+Pixel accuracy: 90.46309
+Loss for Batch 162 of 300: 0.31499
+The accuracy for background is 91.79757
+The accuracy for skin is 64.71559
+The accuracy for hair is 60.88900
+The accuracy for tshirt is 19.08320
+The accuracy for shoes is 39.89363
+The accuracy for pants is 47.64025
+The accuracy for dress is 34.16380
+Pixel accuracy: 90.38723
+Loss for Batch 163 of 300: 0.31367
+The accuracy for background is 91.69868
+The accuracy for skin is 64.53797
+The accuracy for hair is 61.25113
+The accuracy for tshirt is 19.33715
+The accuracy for shoes is 38.68772
+The accuracy for pants is 46.87027
+The accuracy for dress is 32.69119
+Pixel accuracy: 90.46784
+Loss for Batch 164 of 300: 0.29798
+The accuracy for background is 91.88367
+The accuracy for skin is 65.14335
+The accuracy for hair is 61.87095
+The accuracy for tshirt is 18.87895
+The accuracy for shoes is 39.75535
+The accuracy for pants is 47.94170
+The accuracy for dress is 34.29795
+Pixel accuracy: 90.34833
+Loss for Batch 165 of 300: 0.29973
+The accuracy for background is 91.88872
+The accuracy for skin is 65.09671
+The accuracy for hair is 62.43411
+The accuracy for tshirt is 20.05533
+The accuracy for shoes is 40.32452
+The accuracy for pants is 48.39111
+The accuracy for dress is 33.59633
+Pixel accuracy: 90.48477
+Loss for Batch 166 of 300: 0.28962
+The accuracy for background is 91.88557
+The accuracy for skin is 64.96209
+The accuracy for hair is 61.25070
+The accuracy for tshirt is 17.94464
+The accuracy for shoes is 39.29440
+The accuracy for pants is 48.57307
+The accuracy for dress is 33.85981
+Pixel accuracy: 90.39813
+Loss for Batch 167 of 300: 0.29613
+The accuracy for background is 91.82367
+The accuracy for skin is 64.95032
+The accuracy for hair is 61.84319
+The accuracy for tshirt is 22.23134
+The accuracy for shoes is 41.59799
+The accuracy for pants is 47.99203
+The accuracy for dress is 32.79167
+Pixel accuracy: 90.35926
+Loss for Batch 168 of 300: 0.29014
+The accuracy for background is 91.88286
+The accuracy for skin is 65.18204
+The accuracy for hair is 60.96181
+The accuracy for tshirt is 21.32928
+The accuracy for shoes is 40.28255
+The accuracy for pants is 47.39191
+The accuracy for dress is 33.96589
+Pixel accuracy: 90.32844
+Loss for Batch 169 of 300: 0.28987
+The accuracy for background is 91.79871
+The accuracy for skin is 65.47906
+The accuracy for hair is 62.35270
+The accuracy for tshirt is 21.56534
+The accuracy for shoes is 41.12095
+The accuracy for pants is 47.38880
+The accuracy for dress is 33.83250
+Pixel accuracy: 90.25873
+Loss for Batch 170 of 300: 0.32270
+The accuracy for background is 91.86173
+The accuracy for skin is 64.84072
+The accuracy for hair is 63.11473
+The accuracy for tshirt is 21.64435
+The accuracy for shoes is 41.99820
+The accuracy for pants is 47.20750
+The accuracy for dress is 33.62639
+Pixel accuracy: 90.40008
+Loss for Batch 171 of 300: 0.48767
+The accuracy for background is 91.50653
+The accuracy for skin is 64.30684
+The accuracy for hair is 59.51498
+The accuracy for tshirt is 24.07524
+The accuracy for shoes is 37.39141
+The accuracy for pants is 46.87325
+The accuracy for dress is 31.23611
+Pixel accuracy: 89.96891
+Loss for Batch 172 of 300: 0.74590
+The accuracy for background is 91.65415
+The accuracy for skin is 63.68721
+The accuracy for hair is 60.24718
+The accuracy for tshirt is 12.82114
+The accuracy for shoes is 36.83545
+The accuracy for pants is 42.66586
+The accuracy for dress is 33.12150
+Pixel accuracy: 90.06070
+Loss for Batch 173 of 300: 0.76512
+The accuracy for background is 90.45957
+The accuracy for skin is 63.03768
+The accuracy for hair is 57.87364
+The accuracy for tshirt is 4.04982
+The accuracy for shoes is 37.56144
+The accuracy for pants is 41.21803
+The accuracy for dress is 25.48340
+Pixel accuracy: 89.51887
+Loss for Batch 174 of 300: 0.90897
+The accuracy for background is 91.41255
+The accuracy for skin is 63.99405
+The accuracy for hair is 59.55867
+The accuracy for tshirt is 17.89428
+The accuracy for shoes is 36.71929
+The accuracy for pants is 44.68112
+The accuracy for dress is 31.20495
+Pixel accuracy: 90.33325
+Loss for Batch 175 of 300: 0.60787
+The accuracy for background is 91.73169
+The accuracy for skin is 65.07154
+The accuracy for hair is 61.14874
+The accuracy for tshirt is 22.10600
+The accuracy for shoes is 40.29574
+The accuracy for pants is 47.86174
+The accuracy for dress is 34.62690
+Pixel accuracy: 90.39321
+Loss for Batch 176 of 300: 0.40744
+The accuracy for background is 91.83561
+The accuracy for skin is 65.06538
+The accuracy for hair is 62.27153
+The accuracy for tshirt is 23.45499
+The accuracy for shoes is 39.31802
+The accuracy for pants is 47.42434
+The accuracy for dress is 32.85628
+Pixel accuracy: 90.47385
+Loss for Batch 177 of 300: 0.33929
+The accuracy for background is 91.76811
+The accuracy for skin is 65.24193
+The accuracy for hair is 61.22444
+The accuracy for tshirt is 19.76116
+The accuracy for shoes is 40.45947
+The accuracy for pants is 47.73271
+The accuracy for dress is 32.51590
+Pixel accuracy: 90.49662
+Loss for Batch 178 of 300: 0.28776
+The accuracy for background is 91.93190
+The accuracy for skin is 65.34655
+The accuracy for hair is 62.41309
+The accuracy for tshirt is 21.05691
+The accuracy for shoes is 40.94585
+The accuracy for pants is 48.47749
+The accuracy for dress is 34.59423
+Pixel accuracy: 90.57995
+Loss for Batch 179 of 300: 0.26800
+The accuracy for background is 91.84439
+The accuracy for skin is 65.02291
+The accuracy for hair is 62.25681
+The accuracy for tshirt is 19.74790
+The accuracy for shoes is 40.93376
+The accuracy for pants is 48.53420
+The accuracy for dress is 33.26888
+Pixel accuracy: 90.56915
+Loss for Batch 180 of 300: 0.25393
+The accuracy for background is 91.92316
+The accuracy for skin is 65.08858
+The accuracy for hair is 62.57741
+The accuracy for tshirt is 20.92119
+The accuracy for shoes is 40.77533
+The accuracy for pants is 48.67967
+The accuracy for dress is 33.66413
+Pixel accuracy: 90.54134
+Loss for Batch 181 of 300: 0.24522
+The accuracy for background is 91.93347
+The accuracy for skin is 65.19506
+The accuracy for hair is 61.84813
+The accuracy for tshirt is 20.47150
+The accuracy for shoes is 40.65817
+The accuracy for pants is 48.29992
+The accuracy for dress is 33.16183
+Pixel accuracy: 90.53452
+Loss for Batch 182 of 300: 0.23664
+The accuracy for background is 91.92257
+The accuracy for skin is 65.16967
+The accuracy for hair is 62.16731
+The accuracy for tshirt is 20.39802
+The accuracy for shoes is 40.50235
+The accuracy for pants is 48.60762
+The accuracy for dress is 34.74215
+Pixel accuracy: 90.56570
+Loss for Batch 183 of 300: 0.23229
+The accuracy for background is 91.94646
+The accuracy for skin is 64.99763
+The accuracy for hair is 62.75481
+The accuracy for tshirt is 19.97092
+The accuracy for shoes is 40.23982
+The accuracy for pants is 48.71123
+The accuracy for dress is 33.98942
+Pixel accuracy: 90.52531
+Loss for Batch 184 of 300: 0.22984
+The accuracy for background is 91.97354
+The accuracy for skin is 65.28163
+The accuracy for hair is 61.77367
+The accuracy for tshirt is 20.49709
+The accuracy for shoes is 40.71461
+The accuracy for pants is 48.95478
+The accuracy for dress is 34.08532
+Pixel accuracy: 90.55758
+Loss for Batch 185 of 300: 0.22552
+The accuracy for background is 91.81908
+The accuracy for skin is 64.89270
+The accuracy for hair is 61.39438
+The accuracy for tshirt is 20.01175
+The accuracy for shoes is 40.31518
+The accuracy for pants is 47.84113
+The accuracy for dress is 32.75629
+Pixel accuracy: 90.51289
+Loss for Batch 186 of 300: 0.22035
+The accuracy for background is 91.92006
+The accuracy for skin is 64.97540
+The accuracy for hair is 62.23367
+The accuracy for tshirt is 18.37855
+The accuracy for shoes is 40.04352
+The accuracy for pants is 47.91852
+The accuracy for dress is 33.62729
+Pixel accuracy: 90.48095
+Loss for Batch 187 of 300: 0.22302
+The accuracy for background is 91.85324
+The accuracy for skin is 65.50065
+The accuracy for hair is 62.59417
+The accuracy for tshirt is 19.32646
+The accuracy for shoes is 41.27745
+The accuracy for pants is 47.75155
+The accuracy for dress is 33.42365
+Pixel accuracy: 90.53306
+Loss for Batch 188 of 300: 0.22607
+The accuracy for background is 91.90614
+The accuracy for skin is 65.03046
+The accuracy for hair is 61.73317
+The accuracy for tshirt is 20.96227
+The accuracy for shoes is 40.57871
+The accuracy for pants is 47.91272
+The accuracy for dress is 34.14270
+Pixel accuracy: 90.51243
+Loss for Batch 189 of 300: 0.23347
+The accuracy for background is 91.76077
+The accuracy for skin is 64.75442
+The accuracy for hair is 61.42231
+The accuracy for tshirt is 17.46585
+The accuracy for shoes is 40.33274
+The accuracy for pants is 47.02819
+The accuracy for dress is 33.47284
+Pixel accuracy: 90.50656
+Loss for Batch 190 of 300: 0.24175
+The accuracy for background is 91.89232
+The accuracy for skin is 64.93570
+The accuracy for hair is 62.54988
+The accuracy for tshirt is 20.88694
+The accuracy for shoes is 40.17342
+The accuracy for pants is 48.32774
+The accuracy for dress is 34.04326
+Pixel accuracy: 90.48426
+Loss for Batch 191 of 300: 0.24178
+The accuracy for background is 91.83544
+The accuracy for skin is 64.91767
+The accuracy for hair is 61.39362
+The accuracy for tshirt is 19.91107
+The accuracy for shoes is 41.15791
+The accuracy for pants is 48.38470
+The accuracy for dress is 32.92355
+Pixel accuracy: 90.55820
+Loss for Batch 192 of 300: 0.24008
+The accuracy for background is 91.81728
+The accuracy for skin is 64.90868
+The accuracy for hair is 61.17724
+The accuracy for tshirt is 19.33256
+The accuracy for shoes is 40.68182
+The accuracy for pants is 47.55856
+The accuracy for dress is 33.52075
+Pixel accuracy: 90.44711
+Loss for Batch 193 of 300: 0.24629
+The accuracy for background is 92.01996
+The accuracy for skin is 65.05086
+The accuracy for hair is 62.58038
+The accuracy for tshirt is 18.75694
+The accuracy for shoes is 40.70424
+The accuracy for pants is 48.30554
+The accuracy for dress is 33.95149
+Pixel accuracy: 90.53234
+Loss for Batch 194 of 300: 0.24232
+The accuracy for background is 91.88354
+The accuracy for skin is 64.89445
+The accuracy for hair is 62.36085
+The accuracy for tshirt is 21.03009
+The accuracy for shoes is 40.50387
+The accuracy for pants is 48.48104
+The accuracy for dress is 33.31771
+Pixel accuracy: 90.54118
+Loss for Batch 195 of 300: 0.24312
+The accuracy for background is 91.85269
+The accuracy for skin is 65.36393
+The accuracy for hair is 62.25107
+The accuracy for tshirt is 21.76247
+The accuracy for shoes is 39.64678
+The accuracy for pants is 48.79723
+The accuracy for dress is 32.87938
+Pixel accuracy: 90.39276
+Loss for Batch 196 of 300: 0.26500
+The accuracy for background is 91.89420
+The accuracy for skin is 64.94757
+The accuracy for hair is 62.60062
+The accuracy for tshirt is 19.47935
+The accuracy for shoes is 39.28762
+The accuracy for pants is 47.68244
+The accuracy for dress is 33.25431
+Pixel accuracy: 90.40835
+Loss for Batch 197 of 300: 0.26015
+The accuracy for background is 91.85649
+The accuracy for skin is 64.65719
+The accuracy for hair is 62.02842
+The accuracy for tshirt is 17.36999
+The accuracy for shoes is 39.06674
+The accuracy for pants is 48.87286
+The accuracy for dress is 33.30919
+Pixel accuracy: 90.53690
+Loss for Batch 198 of 300: 0.25328
+The accuracy for background is 91.82768
+The accuracy for skin is 65.34383
+The accuracy for hair is 62.24590
+The accuracy for tshirt is 19.99878
+The accuracy for shoes is 40.36847
+The accuracy for pants is 47.99850
+The accuracy for dress is 33.55917
+Pixel accuracy: 90.50073
+Loss for Batch 199 of 300: 0.25015
+The accuracy for background is 91.93337
+The accuracy for skin is 64.70888
+The accuracy for hair is 61.89145
+The accuracy for tshirt is 23.49206
+The accuracy for shoes is 39.18156
+The accuracy for pants is 47.50128
+The accuracy for dress is 33.78771
+Pixel accuracy: 90.39978
+Loss for Batch 200 of 300: 0.26009
+The accuracy for background is 91.96896
+The accuracy for skin is 65.33280
+The accuracy for hair is 61.60019
+The accuracy for tshirt is 19.19327
+The accuracy for shoes is 40.18317
+The accuracy for pants is 48.18465
+The accuracy for dress is 34.57588
+Pixel accuracy: 90.51214
+Loss for Batch 201 of 300: 0.25504
+The accuracy for background is 91.85398
+The accuracy for skin is 65.59577
+The accuracy for hair is 62.01649
+The accuracy for tshirt is 21.11775
+The accuracy for shoes is 41.08983
+The accuracy for pants is 48.27881
+The accuracy for dress is 33.94248
+Pixel accuracy: 90.38991
+Loss for Batch 202 of 300: 0.25169
+The accuracy for background is 92.00284
+The accuracy for skin is 65.34025
+The accuracy for hair is 62.15012
+The accuracy for tshirt is 21.63239
+The accuracy for shoes is 41.20321
+The accuracy for pants is 48.90401
+The accuracy for dress is 34.25678
+Pixel accuracy: 90.55577
+Loss for Batch 203 of 300: 0.25914
+The accuracy for background is 91.91343
+The accuracy for skin is 65.44067
+The accuracy for hair is 62.08807
+The accuracy for tshirt is 20.76311
+The accuracy for shoes is 41.29604
+The accuracy for pants is 47.28786
+The accuracy for dress is 34.16871
+Pixel accuracy: 90.51329
+Loss for Batch 204 of 300: 0.24776
+The accuracy for background is 91.88903
+The accuracy for skin is 64.98577
+The accuracy for hair is 62.19003
+The accuracy for tshirt is 22.36411
+The accuracy for shoes is 40.64724
+The accuracy for pants is 48.45805
+The accuracy for dress is 34.51656
+Pixel accuracy: 90.36147
+Loss for Batch 205 of 300: 0.25524
+The accuracy for background is 91.82918
+The accuracy for skin is 65.09419
+The accuracy for hair is 61.51726
+The accuracy for tshirt is 19.77483
+The accuracy for shoes is 40.32949
+The accuracy for pants is 47.89283
+The accuracy for dress is 33.62317
+Pixel accuracy: 90.55493
+Loss for Batch 206 of 300: 0.25240
+The accuracy for background is 91.92469
+The accuracy for skin is 65.24846
+The accuracy for hair is 61.65962
+The accuracy for tshirt is 20.55067
+The accuracy for shoes is 39.40000
+The accuracy for pants is 48.49658
+The accuracy for dress is 34.13819
+Pixel accuracy: 90.45434
+Loss for Batch 207 of 300: 0.25219
+The accuracy for background is 92.08413
+The accuracy for skin is 65.38470
+The accuracy for hair is 62.89374
+The accuracy for tshirt is 23.34032
+The accuracy for shoes is 40.72134
+The accuracy for pants is 47.52480
+The accuracy for dress is 34.95819
+Pixel accuracy: 90.50832
+Loss for Batch 208 of 300: 0.26290
+The accuracy for background is 91.85394
+The accuracy for skin is 65.31040
+The accuracy for hair is 61.16949
+The accuracy for tshirt is 20.68903
+The accuracy for shoes is 40.25526
+The accuracy for pants is 48.79680
+The accuracy for dress is 33.25878
+Pixel accuracy: 90.51166
+Loss for Batch 209 of 300: 0.24705
+The accuracy for background is 91.89569
+The accuracy for skin is 65.00118
+The accuracy for hair is 61.65735
+The accuracy for tshirt is 21.70151
+The accuracy for shoes is 40.36688
+The accuracy for pants is 48.17477
+The accuracy for dress is 33.88445
+Pixel accuracy: 90.52467
+Loss for Batch 210 of 300: 0.23971
+The accuracy for background is 92.00969
+The accuracy for skin is 65.46967
+The accuracy for hair is 62.00338
+The accuracy for tshirt is 22.37395
+The accuracy for shoes is 40.79507
+The accuracy for pants is 48.31028
+The accuracy for dress is 34.26464
+Pixel accuracy: 90.43255
+Loss for Batch 211 of 300: 0.24116
+The accuracy for background is 91.83503
+The accuracy for skin is 65.22196
+The accuracy for hair is 61.48601
+The accuracy for tshirt is 19.62089
+The accuracy for shoes is 40.81366
+The accuracy for pants is 48.36421
+The accuracy for dress is 32.84783
+Pixel accuracy: 90.52180
+Loss for Batch 212 of 300: 0.23887
+The accuracy for background is 91.79456
+The accuracy for skin is 65.12961
+The accuracy for hair is 62.34804
+The accuracy for tshirt is 19.88937
+The accuracy for shoes is 40.93124
+The accuracy for pants is 47.41620
+The accuracy for dress is 33.66734
+Pixel accuracy: 90.38410
+Loss for Batch 213 of 300: 0.25871
+The accuracy for background is 91.79737
+The accuracy for skin is 65.25198
+The accuracy for hair is 62.28524
+The accuracy for tshirt is 22.36987
+The accuracy for shoes is 40.17002
+The accuracy for pants is 48.00455
+The accuracy for dress is 33.16179
+Pixel accuracy: 90.49199
+Loss for Batch 214 of 300: 0.25245
+The accuracy for background is 91.89392
+The accuracy for skin is 65.26886
+The accuracy for hair is 62.57491
+The accuracy for tshirt is 20.72413
+The accuracy for shoes is 41.19950
+The accuracy for pants is 47.93689
+The accuracy for dress is 33.67354
+Pixel accuracy: 90.28738
+Loss for Batch 215 of 300: 0.26258
+The accuracy for background is 91.98452
+The accuracy for skin is 65.01487
+The accuracy for hair is 60.90137
+The accuracy for tshirt is 19.61319
+The accuracy for shoes is 40.11285
+The accuracy for pants is 48.46343
+The accuracy for dress is 34.25316
+Pixel accuracy: 90.45504
+Loss for Batch 216 of 300: 0.25193
+The accuracy for background is 91.87294
+The accuracy for skin is 65.23257
+The accuracy for hair is 61.44573
+The accuracy for tshirt is 20.58797
+The accuracy for shoes is 40.40337
+The accuracy for pants is 48.57147
+The accuracy for dress is 33.51251
+Pixel accuracy: 90.18847
+Loss for Batch 217 of 300: 0.25476
+The accuracy for background is 91.79788
+The accuracy for skin is 64.85586
+The accuracy for hair is 61.82002
+The accuracy for tshirt is 20.96588
+The accuracy for shoes is 40.35428
+The accuracy for pants is 47.70289
+The accuracy for dress is 33.17713
+Pixel accuracy: 90.41165
+Loss for Batch 218 of 300: 0.26442
+The accuracy for background is 91.97410
+The accuracy for skin is 65.13729
+The accuracy for hair is 62.30436
+The accuracy for tshirt is 20.54813
+The accuracy for shoes is 40.92647
+The accuracy for pants is 47.59158
+The accuracy for dress is 33.66666
+Pixel accuracy: 90.44016
+Loss for Batch 219 of 300: 0.29373
+The accuracy for background is 91.79057
+The accuracy for skin is 64.58892
+The accuracy for hair is 61.77765
+The accuracy for tshirt is 23.03207
+The accuracy for shoes is 41.06525
+The accuracy for pants is 48.27302
+The accuracy for dress is 33.90277
+Pixel accuracy: 90.23672
+Loss for Batch 220 of 300: 0.30951
+The accuracy for background is 91.96585
+The accuracy for skin is 65.39619
+The accuracy for hair is 62.84084
+The accuracy for tshirt is 22.47485
+The accuracy for shoes is 41.16529
+The accuracy for pants is 48.61951
+The accuracy for dress is 33.39150
+Pixel accuracy: 90.42261
+Loss for Batch 221 of 300: 0.26098
+The accuracy for background is 91.85323
+The accuracy for skin is 65.58298
+The accuracy for hair is 62.26333
+The accuracy for tshirt is 20.31433
+The accuracy for shoes is 41.79873
+The accuracy for pants is 48.60274
+The accuracy for dress is 32.98417
+Pixel accuracy: 90.57150
+Loss for Batch 222 of 300: 0.24376
+The accuracy for background is 91.91181
+The accuracy for skin is 65.46570
+The accuracy for hair is 63.10476
+The accuracy for tshirt is 21.35386
+The accuracy for shoes is 41.05164
+The accuracy for pants is 48.22774
+The accuracy for dress is 33.69656
+Pixel accuracy: 90.54393
+Loss for Batch 223 of 300: 0.24423
+The accuracy for background is 91.96904
+The accuracy for skin is 65.76151
+The accuracy for hair is 63.32636
+The accuracy for tshirt is 20.81154
+The accuracy for shoes is 41.14136
+The accuracy for pants is 48.44551
+The accuracy for dress is 33.57426
+Pixel accuracy: 90.48675
+Loss for Batch 224 of 300: 0.26078
+The accuracy for background is 91.81194
+The accuracy for skin is 65.42404
+The accuracy for hair is 62.53829
+The accuracy for tshirt is 20.01190
+The accuracy for shoes is 40.46966
+The accuracy for pants is 46.81450
+The accuracy for dress is 33.13598
+Pixel accuracy: 90.56931
+Loss for Batch 225 of 300: 0.25203
+The accuracy for background is 91.94928
+The accuracy for skin is 65.30083
+The accuracy for hair is 62.67532
+The accuracy for tshirt is 20.73812
+The accuracy for shoes is 38.64329
+The accuracy for pants is 48.19727
+The accuracy for dress is 34.42524
+Pixel accuracy: 90.48699
+Loss for Batch 226 of 300: 0.24976
+The accuracy for background is 91.91865
+The accuracy for skin is 65.58862
+The accuracy for hair is 61.96886
+The accuracy for tshirt is 21.63126
+The accuracy for shoes is 40.88330
+The accuracy for pants is 48.46143
+The accuracy for dress is 33.28187
+Pixel accuracy: 90.47724
+Loss for Batch 227 of 300: 0.23984
+The accuracy for background is 91.85807
+The accuracy for skin is 65.45987
+The accuracy for hair is 62.37049
+The accuracy for tshirt is 22.52879
+The accuracy for shoes is 40.10503
+The accuracy for pants is 47.03024
+The accuracy for dress is 34.43092
+Pixel accuracy: 90.52313
+Loss for Batch 228 of 300: 0.23865
+The accuracy for background is 91.94907
+The accuracy for skin is 65.74568
+The accuracy for hair is 62.21143
+The accuracy for tshirt is 20.46311
+The accuracy for shoes is 40.90902
+The accuracy for pants is 47.96412
+The accuracy for dress is 34.11409
+Pixel accuracy: 90.36398
+Loss for Batch 229 of 300: 0.22431
+The accuracy for background is 92.03666
+The accuracy for skin is 65.85301
+The accuracy for hair is 62.82764
+The accuracy for tshirt is 21.36149
+The accuracy for shoes is 39.93901
+The accuracy for pants is 48.41187
+The accuracy for dress is 34.62110
+Pixel accuracy: 90.49184
+Loss for Batch 230 of 300: 0.22394
+The accuracy for background is 91.75727
+The accuracy for skin is 65.40949
+The accuracy for hair is 61.30418
+The accuracy for tshirt is 19.62062
+The accuracy for shoes is 39.54500
+The accuracy for pants is 47.53836
+The accuracy for dress is 33.14119
+Pixel accuracy: 90.49582
+Loss for Batch 231 of 300: 0.22213
+The accuracy for background is 91.97214
+The accuracy for skin is 65.74889
+The accuracy for hair is 62.48787
+The accuracy for tshirt is 20.16094
+The accuracy for shoes is 41.13093
+The accuracy for pants is 48.75152
+The accuracy for dress is 33.94227
+Pixel accuracy: 90.41928
+Loss for Batch 232 of 300: 0.24607
+The accuracy for background is 91.93886
+The accuracy for skin is 65.46283
+The accuracy for hair is 62.93152
+The accuracy for tshirt is 21.00170
+The accuracy for shoes is 41.41856
+The accuracy for pants is 49.08240
+The accuracy for dress is 33.23244
+Pixel accuracy: 90.41177
+Loss for Batch 233 of 300: 0.24516
+The accuracy for background is 91.72564
+The accuracy for skin is 64.66931
+The accuracy for hair is 58.93843
+The accuracy for tshirt is 19.05775
+The accuracy for shoes is 38.87521
+The accuracy for pants is 47.07965
+The accuracy for dress is 34.03714
+Pixel accuracy: 90.42612
+Loss for Batch 234 of 300: 0.24444
+The accuracy for background is 91.97270
+The accuracy for skin is 65.95638
+The accuracy for hair is 62.89421
+The accuracy for tshirt is 22.69995
+The accuracy for shoes is 40.73353
+The accuracy for pants is 48.81532
+The accuracy for dress is 34.27385
+Pixel accuracy: 90.53214
+Loss for Batch 235 of 300: 0.23513
+The accuracy for background is 91.99561
+The accuracy for skin is 65.85543
+The accuracy for hair is 63.22999
+The accuracy for tshirt is 20.64002
+The accuracy for shoes is 41.20646
+The accuracy for pants is 48.69949
+The accuracy for dress is 33.43986
+Pixel accuracy: 90.37008
+Loss for Batch 236 of 300: 0.24045
+The accuracy for background is 91.86736
+The accuracy for skin is 64.85752
+The accuracy for hair is 63.00851
+The accuracy for tshirt is 21.86275
+The accuracy for shoes is 40.46746
+The accuracy for pants is 48.06113
+The accuracy for dress is 33.61406
+Pixel accuracy: 90.27725
+Loss for Batch 237 of 300: 0.24065
+The accuracy for background is 91.97824
+The accuracy for skin is 65.59889
+The accuracy for hair is 62.89162
+The accuracy for tshirt is 21.39643
+The accuracy for shoes is 41.45700
+The accuracy for pants is 48.00287
+The accuracy for dress is 34.29997
+Pixel accuracy: 90.46047
+Loss for Batch 238 of 300: 0.24156
+The accuracy for background is 91.86899
+The accuracy for skin is 65.81451
+The accuracy for hair is 61.39791
+The accuracy for tshirt is 21.19751
+The accuracy for shoes is 39.95431
+The accuracy for pants is 48.44864
+The accuracy for dress is 33.29210
+Pixel accuracy: 90.38704
+Loss for Batch 239 of 300: 0.23640
+The accuracy for background is 91.78421
+The accuracy for skin is 65.77682
+The accuracy for hair is 62.47307
+The accuracy for tshirt is 17.98941
+The accuracy for shoes is 41.27342
+The accuracy for pants is 47.57336
+The accuracy for dress is 32.11198
+Pixel accuracy: 90.49520
+Loss for Batch 240 of 300: 0.23553
+The accuracy for background is 91.88481
+The accuracy for skin is 65.49559
+The accuracy for hair is 62.52841
+The accuracy for tshirt is 19.05532
+The accuracy for shoes is 40.94920
+The accuracy for pants is 48.20621
+The accuracy for dress is 33.70946
+Pixel accuracy: 90.46068
+Loss for Batch 241 of 300: 0.22907
+The accuracy for background is 91.93498
+The accuracy for skin is 65.12443
+The accuracy for hair is 62.52146
+The accuracy for tshirt is 21.98696
+The accuracy for shoes is 40.62063
+The accuracy for pants is 48.92734
+The accuracy for dress is 34.51387
+Pixel accuracy: 90.46534
+Loss for Batch 242 of 300: 0.24104
+The accuracy for background is 91.87423
+The accuracy for skin is 65.68339
+The accuracy for hair is 62.60822
+The accuracy for tshirt is 22.36213
+The accuracy for shoes is 40.08784
+The accuracy for pants is 49.13960
+The accuracy for dress is 33.45310
+Pixel accuracy: 90.44670
+Loss for Batch 243 of 300: 0.24926
+The accuracy for background is 92.01765
+The accuracy for skin is 65.43523
+The accuracy for hair is 62.58810
+The accuracy for tshirt is 22.31062
+The accuracy for shoes is 40.71201
+The accuracy for pants is 48.63850
+The accuracy for dress is 33.48212
+Pixel accuracy: 90.58786
+Loss for Batch 244 of 300: 0.24530
+The accuracy for background is 91.85817
+The accuracy for skin is 65.90672
+The accuracy for hair is 62.74446
+The accuracy for tshirt is 20.59649
+The accuracy for shoes is 41.01485
+The accuracy for pants is 48.29218
+The accuracy for dress is 33.30782
+Pixel accuracy: 90.34132
+Loss for Batch 245 of 300: 0.24325
+The accuracy for background is 91.84138
+The accuracy for skin is 65.41794
+The accuracy for hair is 61.85135
+The accuracy for tshirt is 17.71023
+The accuracy for shoes is 39.23313
+The accuracy for pants is 48.14398
+The accuracy for dress is 33.50217
+Pixel accuracy: 90.59929
+Loss for Batch 246 of 300: 0.23395
+The accuracy for background is 91.94390
+The accuracy for skin is 65.41670
+The accuracy for hair is 62.44056
+The accuracy for tshirt is 17.68178
+The accuracy for shoes is 40.60437
+The accuracy for pants is 48.47473
+The accuracy for dress is 32.50412
+Pixel accuracy: 90.48205
+Loss for Batch 247 of 300: 0.22511
+The accuracy for background is 91.91677
+The accuracy for skin is 65.57058
+The accuracy for hair is 62.12728
+The accuracy for tshirt is 21.02340
+The accuracy for shoes is 41.11047
+The accuracy for pants is 48.45286
+The accuracy for dress is 32.98955
+Pixel accuracy: 90.55317
+Loss for Batch 248 of 300: 0.23596
+The accuracy for background is 91.88938
+The accuracy for skin is 65.83967
+The accuracy for hair is 62.02811
+The accuracy for tshirt is 24.17687
+The accuracy for shoes is 40.64510
+The accuracy for pants is 48.16544
+The accuracy for dress is 32.62819
+Pixel accuracy: 90.28399
+Loss for Batch 249 of 300: 0.24625
+The accuracy for background is 91.93161
+The accuracy for skin is 65.74914
+The accuracy for hair is 62.55673
+The accuracy for tshirt is 21.53958
+The accuracy for shoes is 41.88683
+The accuracy for pants is 48.12355
+The accuracy for dress is 34.36334
+Pixel accuracy: 90.46313
+Loss for Batch 250 of 300: 0.23679
+The accuracy for background is 91.78696
+The accuracy for skin is 65.33183
+The accuracy for hair is 62.55350
+The accuracy for tshirt is 21.90571
+The accuracy for shoes is 40.02658
+The accuracy for pants is 47.89266
+The accuracy for dress is 32.38615
+Pixel accuracy: 90.36868
+Loss for Batch 251 of 300: 0.23756
+The accuracy for background is 91.92126
+The accuracy for skin is 65.63063
+The accuracy for hair is 62.10708
+The accuracy for tshirt is 21.95067
+The accuracy for shoes is 40.45492
+The accuracy for pants is 47.97955
+The accuracy for dress is 33.85179
+Pixel accuracy: 90.36985
+Loss for Batch 252 of 300: 0.23998
+The accuracy for background is 91.72336
+The accuracy for skin is 65.66431
+The accuracy for hair is 62.84123
+The accuracy for tshirt is 20.78213
+The accuracy for shoes is 41.30863
+The accuracy for pants is 48.30076
+The accuracy for dress is 32.82319
+Pixel accuracy: 90.41862
+Loss for Batch 253 of 300: 0.23540
+The accuracy for background is 91.73612
+The accuracy for skin is 65.62590
+The accuracy for hair is 61.32985
+The accuracy for tshirt is 19.79022
+The accuracy for shoes is 39.38145
+The accuracy for pants is 47.88503
+The accuracy for dress is 32.51876
+Pixel accuracy: 90.55944
+Loss for Batch 254 of 300: 0.24393
+The accuracy for background is 92.00334
+The accuracy for skin is 65.67671
+The accuracy for hair is 63.00570
+The accuracy for tshirt is 21.70374
+The accuracy for shoes is 41.12836
+The accuracy for pants is 48.73032
+The accuracy for dress is 34.29714
+Pixel accuracy: 90.55574
+Loss for Batch 255 of 300: 0.23463
+The accuracy for background is 91.88853
+The accuracy for skin is 65.18876
+The accuracy for hair is 62.69994
+The accuracy for tshirt is 23.71145
+The accuracy for shoes is 41.38038
+The accuracy for pants is 48.32660
+The accuracy for dress is 33.73564
+Pixel accuracy: 90.31150
+Loss for Batch 256 of 300: 0.22594
+The accuracy for background is 91.97455
+The accuracy for skin is 65.26483
+The accuracy for hair is 62.51943
+The accuracy for tshirt is 20.82592
+The accuracy for shoes is 41.20905
+The accuracy for pants is 49.10393
+The accuracy for dress is 34.22700
+Pixel accuracy: 90.42537
+Loss for Batch 257 of 300: 0.22956
+The accuracy for background is 91.88414
+The accuracy for skin is 65.62686
+The accuracy for hair is 61.34309
+The accuracy for tshirt is 20.42928
+The accuracy for shoes is 39.59009
+The accuracy for pants is 47.92497
+The accuracy for dress is 33.92947
+Pixel accuracy: 90.52105
+Loss for Batch 258 of 300: 0.22286
+The accuracy for background is 91.89912
+The accuracy for skin is 65.52230
+The accuracy for hair is 62.61648
+The accuracy for tshirt is 19.87860
+The accuracy for shoes is 40.29107
+The accuracy for pants is 48.33036
+The accuracy for dress is 33.23244
+Pixel accuracy: 90.57550
+Loss for Batch 259 of 300: 0.23219
+The accuracy for background is 91.88267
+The accuracy for skin is 65.76012
+The accuracy for hair is 61.91038
+The accuracy for tshirt is 17.43892
+The accuracy for shoes is 40.84947
+The accuracy for pants is 48.03935
+The accuracy for dress is 32.81422
+Pixel accuracy: 90.05433
+Loss for Batch 260 of 300: 0.23715
+The accuracy for background is 92.03535
+The accuracy for skin is 65.47482
+The accuracy for hair is 63.04855
+The accuracy for tshirt is 22.36610
+The accuracy for shoes is 41.44027
+The accuracy for pants is 48.81333
+The accuracy for dress is 34.20705
+Pixel accuracy: 90.54319
+Loss for Batch 261 of 300: 0.22564
+The accuracy for background is 91.96841
+The accuracy for skin is 66.01042
+The accuracy for hair is 62.96773
+The accuracy for tshirt is 20.19183
+The accuracy for shoes is 40.59170
+The accuracy for pants is 48.28889
+The accuracy for dress is 34.27775
+Pixel accuracy: 90.59590
+Loss for Batch 262 of 300: 0.22311
+The accuracy for background is 91.96661
+The accuracy for skin is 65.71713
+The accuracy for hair is 63.36515
+The accuracy for tshirt is 20.12967
+The accuracy for shoes is 41.36899
+The accuracy for pants is 48.65919
+The accuracy for dress is 33.38056
+Pixel accuracy: 90.51406
+Loss for Batch 263 of 300: 0.21494
+The accuracy for background is 91.81013
+The accuracy for skin is 65.89166
+The accuracy for hair is 62.15919
+The accuracy for tshirt is 20.24456
+The accuracy for shoes is 39.55370
+The accuracy for pants is 47.79975
+The accuracy for dress is 32.46151
+Pixel accuracy: 90.52561
+Loss for Batch 264 of 300: 0.26645
+The accuracy for background is 91.70944
+The accuracy for skin is 64.87958
+The accuracy for hair is 60.14767
+The accuracy for tshirt is 20.28459
+The accuracy for shoes is 39.50339
+The accuracy for pants is 48.27404
+The accuracy for dress is 31.52281
+Pixel accuracy: 90.15263
+Loss for Batch 265 of 300: 1.00789
+The accuracy for background is 91.05387
+The accuracy for skin is 64.19950
+The accuracy for hair is 61.10126
+The accuracy for tshirt is 15.51339
+The accuracy for shoes is 39.94981
+The accuracy for pants is 42.50665
+The accuracy for dress is 31.30761
+Pixel accuracy: 89.62100
+Loss for Batch 266 of 300: 0.66492
+The accuracy for background is 91.86001
+The accuracy for skin is 64.20897
+The accuracy for hair is 62.01615
+The accuracy for tshirt is 18.86438
+The accuracy for shoes is 40.43991
+The accuracy for pants is 46.69615
+The accuracy for dress is 34.01229
+Pixel accuracy: 90.30729
+Loss for Batch 267 of 300: 0.34446
+The accuracy for background is 91.94330
+The accuracy for skin is 65.52685
+The accuracy for hair is 63.80054
+The accuracy for tshirt is 20.08390
+The accuracy for shoes is 41.27327
+The accuracy for pants is 48.76558
+The accuracy for dress is 34.03025
+Pixel accuracy: 90.47614
+Loss for Batch 268 of 300: 0.25982
+The accuracy for background is 91.93193
+The accuracy for skin is 65.95831
+The accuracy for hair is 62.55576
+The accuracy for tshirt is 19.08849
+The accuracy for shoes is 41.39052
+The accuracy for pants is 49.04363
+The accuracy for dress is 33.41193
+Pixel accuracy: 90.60670
+Loss for Batch 269 of 300: 0.22381
+The accuracy for background is 92.04017
+The accuracy for skin is 65.77140
+The accuracy for hair is 61.87744
+The accuracy for tshirt is 21.28575
+The accuracy for shoes is 40.51608
+The accuracy for pants is 48.82687
+The accuracy for dress is 35.13705
+Pixel accuracy: 90.69327
+Loss for Batch 270 of 300: 0.20386
+The accuracy for background is 92.08208
+The accuracy for skin is 66.06695
+The accuracy for hair is 63.45824
+The accuracy for tshirt is 22.13170
+The accuracy for shoes is 40.11620
+The accuracy for pants is 48.95112
+The accuracy for dress is 34.70812
+Pixel accuracy: 90.72731
+Loss for Batch 271 of 300: 0.19231
+The accuracy for background is 92.00446
+The accuracy for skin is 66.17545
+The accuracy for hair is 63.01805
+The accuracy for tshirt is 19.39835
+The accuracy for shoes is 41.89337
+The accuracy for pants is 48.83839
+The accuracy for dress is 34.34148
+Pixel accuracy: 90.56885
+Loss for Batch 272 of 300: 0.18083
+The accuracy for background is 92.01324
+The accuracy for skin is 65.61760
+The accuracy for hair is 62.22529
+The accuracy for tshirt is 21.18359
+The accuracy for shoes is 41.29780
+The accuracy for pants is 49.86504
+The accuracy for dress is 34.42730
+Pixel accuracy: 90.70510
+Loss for Batch 273 of 300: 0.17547
+The accuracy for background is 92.01064
+The accuracy for skin is 65.60096
+The accuracy for hair is 62.60666
+The accuracy for tshirt is 21.03886
+The accuracy for shoes is 40.89136
+The accuracy for pants is 48.64969
+The accuracy for dress is 34.22227
+Pixel accuracy: 90.62218
+Loss for Batch 274 of 300: 0.17118
+The accuracy for background is 91.93813
+The accuracy for skin is 65.55758
+The accuracy for hair is 62.53447
+The accuracy for tshirt is 20.71811
+The accuracy for shoes is 41.02979
+The accuracy for pants is 48.70170
+The accuracy for dress is 34.65143
+Pixel accuracy: 90.55347
+Loss for Batch 275 of 300: 0.16894
+The accuracy for background is 92.02059
+The accuracy for skin is 66.13049
+The accuracy for hair is 62.43126
+The accuracy for tshirt is 20.87575
+The accuracy for shoes is 41.35058
+The accuracy for pants is 48.44002
+The accuracy for dress is 34.68851
+Pixel accuracy: 90.59215
+Loss for Batch 276 of 300: 0.17347
+The accuracy for background is 91.99386
+The accuracy for skin is 65.80641
+The accuracy for hair is 62.69179
+The accuracy for tshirt is 21.67988
+The accuracy for shoes is 41.04292
+The accuracy for pants is 48.83157
+The accuracy for dress is 34.22894
+Pixel accuracy: 90.57777
+Loss for Batch 277 of 300: 0.18998
+The accuracy for background is 92.07319
+The accuracy for skin is 65.43150
+The accuracy for hair is 62.81873
+The accuracy for tshirt is 22.10474
+The accuracy for shoes is 41.14224
+The accuracy for pants is 49.20597
+The accuracy for dress is 34.53157
+Pixel accuracy: 90.53861
+Loss for Batch 278 of 300: 0.19579
+The accuracy for background is 92.02592
+The accuracy for skin is 65.82383
+The accuracy for hair is 61.84997
+The accuracy for tshirt is 22.45857
+The accuracy for shoes is 39.61755
+The accuracy for pants is 49.24443
+The accuracy for dress is 34.12797
+Pixel accuracy: 90.52690
+Loss for Batch 279 of 300: 0.19061
+The accuracy for background is 91.98946
+The accuracy for skin is 65.78855
+The accuracy for hair is 62.07025
+The accuracy for tshirt is 20.92258
+The accuracy for shoes is 40.88158
+The accuracy for pants is 48.40067
+The accuracy for dress is 34.13367
+Pixel accuracy: 90.53571
+Loss for Batch 280 of 300: 0.19232
+The accuracy for background is 92.05397
+The accuracy for skin is 65.64404
+The accuracy for hair is 63.12409
+The accuracy for tshirt is 21.23526
+The accuracy for shoes is 42.00572
+The accuracy for pants is 48.94209
+The accuracy for dress is 34.60775
+Pixel accuracy: 90.58017
+Loss for Batch 281 of 300: 0.18335
+The accuracy for background is 91.97503
+The accuracy for skin is 65.42081
+The accuracy for hair is 62.71095
+The accuracy for tshirt is 20.66987
+The accuracy for shoes is 41.39171
+The accuracy for pants is 49.59227
+The accuracy for dress is 34.35293
+Pixel accuracy: 90.68072
+Loss for Batch 282 of 300: 0.18171
+The accuracy for background is 91.91642
+The accuracy for skin is 65.78598
+The accuracy for hair is 62.32705
+The accuracy for tshirt is 21.32537
+The accuracy for shoes is 41.45901
+The accuracy for pants is 48.07556
+The accuracy for dress is 33.50609
+Pixel accuracy: 90.55101
+Loss for Batch 283 of 300: 0.18325
+The accuracy for background is 91.95196
+The accuracy for skin is 65.69486
+The accuracy for hair is 63.63450
+The accuracy for tshirt is 22.02181
+The accuracy for shoes is 40.29686
+The accuracy for pants is 48.33835
+The accuracy for dress is 34.30562
+Pixel accuracy: 90.52179
+Loss for Batch 284 of 300: 0.18266
+The accuracy for background is 91.97959
+The accuracy for skin is 65.64934
+The accuracy for hair is 62.74828
+The accuracy for tshirt is 20.97898
+The accuracy for shoes is 40.94732
+The accuracy for pants is 48.56512
+The accuracy for dress is 34.22615
+Pixel accuracy: 90.62120
+Loss for Batch 285 of 300: 0.18137
+The accuracy for background is 91.99747
+The accuracy for skin is 65.82544
+The accuracy for hair is 61.32840
+The accuracy for tshirt is 21.16447
+The accuracy for shoes is 40.62147
+The accuracy for pants is 49.02944
+The accuracy for dress is 34.68305
+Pixel accuracy: 90.63459
+Loss for Batch 286 of 300: 0.18552
+The accuracy for background is 91.99785
+The accuracy for skin is 65.98043
+The accuracy for hair is 61.98172
+The accuracy for tshirt is 22.53138
+The accuracy for shoes is 40.12639
+The accuracy for pants is 48.52222
+The accuracy for dress is 34.42614
+Pixel accuracy: 90.58312
+Loss for Batch 287 of 300: 0.18610
+The accuracy for background is 91.96901
+The accuracy for skin is 66.04847
+The accuracy for hair is 62.56249
+The accuracy for tshirt is 21.72010
+The accuracy for shoes is 41.98521
+The accuracy for pants is 48.45670
+The accuracy for dress is 33.94840
+Pixel accuracy: 90.49580
+Loss for Batch 288 of 300: 0.19525
+The accuracy for background is 92.04013
+The accuracy for skin is 65.82093
+The accuracy for hair is 61.60037
+The accuracy for tshirt is 19.82682
+The accuracy for shoes is 40.01387
+The accuracy for pants is 48.70590
+The accuracy for dress is 34.81057
+Pixel accuracy: 90.55303
+Loss for Batch 289 of 300: 0.19830
+The accuracy for background is 91.86197
+The accuracy for skin is 65.22790
+The accuracy for hair is 62.44631
+The accuracy for tshirt is 22.86973
+The accuracy for shoes is 41.48367
+The accuracy for pants is 48.24009
+The accuracy for dress is 33.88019
+Pixel accuracy: 90.21207
+Loss for Batch 290 of 300: 0.22335
+The accuracy for background is 91.94600
+The accuracy for skin is 65.57361
+The accuracy for hair is 62.52998
+The accuracy for tshirt is 19.18269
+The accuracy for shoes is 41.18343
+The accuracy for pants is 48.60155
+The accuracy for dress is 33.93472
+Pixel accuracy: 90.41451
+Loss for Batch 291 of 300: 0.22141
+The accuracy for background is 91.90038
+The accuracy for skin is 65.68421
+The accuracy for hair is 61.05135
+The accuracy for tshirt is 21.59318
+The accuracy for shoes is 40.53780
+The accuracy for pants is 48.61491
+The accuracy for dress is 33.88557
+Pixel accuracy: 90.48755
+Loss for Batch 292 of 300: 0.20516
+The accuracy for background is 92.00107
+The accuracy for skin is 65.88404
+The accuracy for hair is 62.39978
+The accuracy for tshirt is 19.98846
+The accuracy for shoes is 41.03836
+The accuracy for pants is 48.95540
+The accuracy for dress is 34.57212
+Pixel accuracy: 90.70045
+Loss for Batch 293 of 300: 0.20865
+The accuracy for background is 91.96167
+The accuracy for skin is 65.36999
+The accuracy for hair is 62.60275
+The accuracy for tshirt is 21.29561
+The accuracy for shoes is 41.07670
+The accuracy for pants is 48.41751
+The accuracy for dress is 33.88368
+Pixel accuracy: 90.52832
+Loss for Batch 294 of 300: 0.20170
+The accuracy for background is 91.96666
+The accuracy for skin is 65.76032
+The accuracy for hair is 63.09820
+The accuracy for tshirt is 20.41055
+The accuracy for shoes is 41.30870
+The accuracy for pants is 48.84713
+The accuracy for dress is 34.53949
+Pixel accuracy: 90.68386
+Loss for Batch 295 of 300: 0.21568
+The accuracy for background is 91.94053
+The accuracy for skin is 65.42257
+The accuracy for hair is 63.39904
+The accuracy for tshirt is 22.81910
+The accuracy for shoes is 40.18379
+The accuracy for pants is 48.68443
+The accuracy for dress is 34.37448
+Pixel accuracy: 90.38301
+Loss for Batch 296 of 300: 0.22243
+The accuracy for background is 91.97267
+The accuracy for skin is 65.80160
+The accuracy for hair is 61.65192
+The accuracy for tshirt is 18.58904
+The accuracy for shoes is 41.54813
+The accuracy for pants is 48.56922
+The accuracy for dress is 33.66725
+Pixel accuracy: 90.51254
+Loss for Batch 297 of 300: 0.20854
+The accuracy for background is 92.05904
+The accuracy for skin is 65.18742
+The accuracy for hair is 62.87440
+The accuracy for tshirt is 22.76737
+The accuracy for shoes is 41.04316
+The accuracy for pants is 47.60759
+The accuracy for dress is 34.87866
+Pixel accuracy: 90.57869
+Loss for Batch 298 of 300: 0.20865
+The accuracy for background is 91.97178
+The accuracy for skin is 66.13279
+The accuracy for hair is 62.03294
+The accuracy for tshirt is 18.08614
+The accuracy for shoes is 40.83554
+The accuracy for pants is 48.44862
+The accuracy for dress is 33.85330
+Pixel accuracy: 90.64464
+Loss for Batch 299 of 300: 0.20120
+The accuracy for background is 91.97216
+The accuracy for skin is 66.17577
+The accuracy for hair is 62.01854
+The accuracy for tshirt is 21.20366
+The accuracy for shoes is 40.91114
+The accuracy for pants is 48.80280
+The accuracy for dress is 34.07972
+Pixel accuracy: 90.47615
+Loss for Batch 300 of 300: 0.20570
+The accuracy for background is 91.98427
+The accuracy for skin is 65.07361
+The accuracy for hair is 62.53544
+The accuracy for tshirt is 22.31620
+The accuracy for shoes is 40.09487
+The accuracy for pants is 49.21225
+The accuracy for dress is 34.29353
+Pixel accuracy: 90.43091

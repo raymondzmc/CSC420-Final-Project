@@ -1,0 +1,1721 @@
+1
+The accuracy for background is 90.04455
+The accuracy for person is 67.17044
+Pixel accuracy: 91.68690
+2
+The accuracy for background is 91.48887
+The accuracy for person is 71.16463
+Pixel accuracy: 92.92377
+3
+The accuracy for background is 93.50394
+The accuracy for person is 78.75225
+Pixel accuracy: 94.73117
+4
+The accuracy for background is 93.59794
+The accuracy for person is 78.61704
+Pixel accuracy: 94.78293
+5
+The accuracy for background is 94.66956
+The accuracy for person is 83.06890
+Pixel accuracy: 95.74323
+6
+The accuracy for background is 94.60566
+The accuracy for person is 82.11631
+Pixel accuracy: 95.63981
+7
+The accuracy for background is 95.25339
+The accuracy for person is 84.59900
+Pixel accuracy: 96.21642
+8
+The accuracy for background is 95.46515
+The accuracy for person is 85.44563
+Pixel accuracy: 96.39821
+9
+The accuracy for background is 95.56926
+The accuracy for person is 85.94218
+Pixel accuracy: 96.49655
+10
+The accuracy for background is 95.55421
+The accuracy for person is 86.33985
+Pixel accuracy: 96.50692
+11
+The accuracy for background is 95.67080
+The accuracy for person is 86.17951
+Pixel accuracy: 96.56785
+12
+The accuracy for background is 95.60622
+The accuracy for person is 85.98311
+Pixel accuracy: 96.51634
+13
+The accuracy for background is 95.78319
+The accuracy for person is 86.68043
+Pixel accuracy: 96.67504
+14
+The accuracy for background is 95.97186
+The accuracy for person is 87.15209
+Pixel accuracy: 96.81865
+15
+The accuracy for background is 95.16448
+The accuracy for person is 83.74898
+Pixel accuracy: 96.10085
+16
+The accuracy for background is 95.79644
+The accuracy for person is 86.86639
+Pixel accuracy: 96.68898
+17
+The accuracy for background is 96.01237
+The accuracy for person is 87.23899
+Pixel accuracy: 96.85158
+18
+The accuracy for background is 95.97520
+The accuracy for person is 86.92824
+Pixel accuracy: 96.80435
+19
+The accuracy for background is 96.07241
+The accuracy for person is 87.52607
+Pixel accuracy: 96.90660
+20
+The accuracy for background is 96.06998
+The accuracy for person is 87.47216
+Pixel accuracy: 96.89997
+21
+The accuracy for background is 96.06735
+The accuracy for person is 87.63707
+Pixel accuracy: 96.90748
+22
+The accuracy for background is 96.01173
+The accuracy for person is 87.25217
+Pixel accuracy: 96.84720
+23
+The accuracy for background is 96.06026
+The accuracy for person is 87.45242
+Pixel accuracy: 96.89223
+24
+The accuracy for background is 96.03031
+The accuracy for person is 87.41621
+Pixel accuracy: 96.87029
+25
+The accuracy for background is 95.90856
+The accuracy for person is 87.37200
+Pixel accuracy: 96.78835
+26
+The accuracy for background is 96.17092
+The accuracy for person is 87.69053
+Pixel accuracy: 96.97313
+27
+The accuracy for background is 96.01465
+The accuracy for person is 87.04900
+Pixel accuracy: 96.83777
+28
+The accuracy for background is 95.96097
+The accuracy for person is 87.48710
+Pixel accuracy: 96.82639
+29
+The accuracy for background is 95.96014
+The accuracy for person is 87.34268
+Pixel accuracy: 96.81811
+30
+The accuracy for background is 96.09809
+The accuracy for person is 87.71725
+Pixel accuracy: 96.92742
+31
+The accuracy for background is 96.03302
+The accuracy for person is 87.32001
+Pixel accuracy: 96.86375
+32
+The accuracy for background is 96.16335
+The accuracy for person is 87.83724
+Pixel accuracy: 96.97802
+33
+The accuracy for background is 96.09218
+The accuracy for person is 87.52754
+Pixel accuracy: 96.90915
+34
+The accuracy for background is 96.03017
+The accuracy for person is 87.22224
+Pixel accuracy: 96.85517
+35
+The accuracy for background is 95.94974
+The accuracy for person is 87.54166
+Pixel accuracy: 96.82090
+36
+The accuracy for background is 96.13153
+The accuracy for person is 87.64145
+Pixel accuracy: 96.94506
+37
+The accuracy for background is 96.14635
+The accuracy for person is 87.56497
+Pixel accuracy: 96.95067
+38
+The accuracy for background is 96.17630
+The accuracy for person is 87.88713
+Pixel accuracy: 96.98817
+39
+The accuracy for background is 96.15657
+The accuracy for person is 87.72677
+Pixel accuracy: 96.96912
+40
+The accuracy for background is 96.09292
+The accuracy for person is 87.33651
+Pixel accuracy: 96.90089
+41
+The accuracy for background is 96.12274
+The accuracy for person is 87.49570
+Pixel accuracy: 96.92762
+42
+The accuracy for background is 96.07447
+The accuracy for person is 87.56270
+Pixel accuracy: 96.90373
+43
+The accuracy for background is 96.08900
+The accuracy for person is 87.60871
+Pixel accuracy: 96.91372
+44
+The accuracy for background is 96.16766
+The accuracy for person is 87.89962
+Pixel accuracy: 96.98229
+45
+The accuracy for background is 96.12843
+The accuracy for person is 87.56335
+Pixel accuracy: 96.93719
+46
+The accuracy for background is 96.10853
+The accuracy for person is 87.63243
+Pixel accuracy: 96.92302
+47
+The accuracy for background is 95.98264
+The accuracy for person is 87.57786
+Pixel accuracy: 96.84034
+48
+The accuracy for background is 96.11879
+The accuracy for person is 87.74825
+Pixel accuracy: 96.94284
+49
+The accuracy for background is 96.12488
+The accuracy for person is 87.56243
+Pixel accuracy: 96.93392
+50
+The accuracy for background is 96.09871
+The accuracy for person is 87.29799
+Pixel accuracy: 96.89998
+51
+The accuracy for background is 96.12497
+The accuracy for person is 87.84680
+Pixel accuracy: 96.95176
+52
+The accuracy for background is 96.13599
+The accuracy for person is 87.73839
+Pixel accuracy: 96.94907
+53
+The accuracy for background is 96.03663
+The accuracy for person is 86.98998
+Pixel accuracy: 96.84142
+54
+The accuracy for background is 96.11487
+The accuracy for person is 87.72765
+Pixel accuracy: 96.93366
+55
+The accuracy for background is 96.18710
+The accuracy for person is 87.91884
+Pixel accuracy: 96.99435
+56
+The accuracy for background is 96.23012
+The accuracy for person is 87.96264
+Pixel accuracy: 97.02373
+57
+The accuracy for background is 96.18620
+The accuracy for person is 87.72362
+Pixel accuracy: 96.98270
+58
+The accuracy for background is 96.17311
+The accuracy for person is 88.04060
+Pixel accuracy: 96.98908
+59
+The accuracy for background is 96.19786
+The accuracy for person is 87.70494
+Pixel accuracy: 96.98838
+60
+The accuracy for background is 96.01207
+The accuracy for person is 87.05754
+Pixel accuracy: 96.83023
+61
+The accuracy for background is 96.19613
+The accuracy for person is 87.75001
+Pixel accuracy: 96.98809
+62
+The accuracy for background is 96.17836
+The accuracy for person is 87.84848
+Pixel accuracy: 96.98338
+63
+The accuracy for background is 96.09637
+The accuracy for person is 87.73970
+Pixel accuracy: 96.92096
+64
+The accuracy for background is 96.13483
+The accuracy for person is 87.58825
+Pixel accuracy: 96.93858
+65
+The accuracy for background is 96.07145
+The accuracy for person is 87.35568
+Pixel accuracy: 96.88376
+66
+The accuracy for background is 96.16560
+The accuracy for person is 87.74476
+Pixel accuracy: 96.96994
+67
+The accuracy for background is 96.13088
+The accuracy for person is 87.94276
+Pixel accuracy: 96.95531
+68
+The accuracy for background is 96.20002
+The accuracy for person is 87.86071
+Pixel accuracy: 96.99798
+69
+The accuracy for background is 96.11056
+The accuracy for person is 87.77716
+Pixel accuracy: 96.93322
+70
+The accuracy for background is 96.18935
+The accuracy for person is 87.84088
+Pixel accuracy: 96.99012
+71
+The accuracy for background is 96.17463
+The accuracy for person is 87.93437
+Pixel accuracy: 96.98289
+72
+The accuracy for background is 96.19594
+The accuracy for person is 87.85313
+Pixel accuracy: 96.99569
+73
+The accuracy for background is 96.19523
+The accuracy for person is 87.83454
+Pixel accuracy: 96.99282
+74
+The accuracy for background is 96.12169
+The accuracy for person is 87.43144
+Pixel accuracy: 96.92434
+75
+The accuracy for background is 96.13762
+The accuracy for person is 87.59465
+Pixel accuracy: 96.94162
+76
+The accuracy for background is 96.12150
+The accuracy for person is 87.39357
+Pixel accuracy: 96.91397
+77
+The accuracy for background is 96.14095
+The accuracy for person is 87.74896
+Pixel accuracy: 96.95294
+78
+The accuracy for background is 96.19889
+The accuracy for person is 88.03400
+Pixel accuracy: 97.00939
+79
+The accuracy for background is 96.24358
+The accuracy for person is 88.02859
+Pixel accuracy: 97.03435
+80
+The accuracy for background is 96.11814
+The accuracy for person is 87.87375
+Pixel accuracy: 96.94451
+81
+The accuracy for background is 96.18967
+The accuracy for person is 87.84340
+Pixel accuracy: 96.98935
+82
+The accuracy for background is 96.21252
+The accuracy for person is 87.89810
+Pixel accuracy: 97.00794
+83
+The accuracy for background is 96.21304
+The accuracy for person is 88.01384
+Pixel accuracy: 97.01308
+84
+The accuracy for background is 96.13071
+The accuracy for person is 87.48894
+Pixel accuracy: 96.93023
+85
+The accuracy for background is 96.08100
+The accuracy for person is 87.82175
+Pixel accuracy: 96.91770
+86
+The accuracy for background is 96.13737
+The accuracy for person is 87.94063
+Pixel accuracy: 96.96225
+87
+The accuracy for background is 95.99036
+The accuracy for person is 87.83113
+Pixel accuracy: 96.86042
+88
+The accuracy for background is 96.21061
+The accuracy for person is 88.09439
+Pixel accuracy: 97.01728
+89
+The accuracy for background is 90.34616
+The accuracy for person is 64.86455
+Pixel accuracy: 91.70341
+90
+The accuracy for background is 95.54288
+The accuracy for person is 86.77650
+Pixel accuracy: 96.52480
+91
+The accuracy for background is 96.30096
+The accuracy for person is 88.55571
+Pixel accuracy: 97.10176
+92
+The accuracy for background is 96.35241
+The accuracy for person is 88.42618
+Pixel accuracy: 97.12219
+93
+The accuracy for background is 96.28495
+The accuracy for person is 88.08718
+Pixel accuracy: 97.06248
+94
+The accuracy for background is 96.36336
+The accuracy for person is 88.39509
+Pixel accuracy: 97.12912
+95
+The accuracy for background is 96.34610
+The accuracy for person is 88.35824
+Pixel accuracy: 97.11539
+96
+The accuracy for background is 96.33126
+The accuracy for person is 88.39582
+Pixel accuracy: 97.10859
+97
+The accuracy for background is 96.33802
+The accuracy for person is 88.39020
+Pixel accuracy: 97.11068
+98
+The accuracy for background is 96.39065
+The accuracy for person is 88.48648
+Pixel accuracy: 97.15259
+99
+The accuracy for background is 96.32788
+The accuracy for person is 88.33600
+Pixel accuracy: 97.10127
+100
+The accuracy for background is 96.34350
+The accuracy for person is 88.36667
+Pixel accuracy: 97.11505
+101
+The accuracy for background is 96.33934
+The accuracy for person is 88.36313
+Pixel accuracy: 97.11292
+102
+The accuracy for background is 96.29609
+The accuracy for person is 88.11923
+Pixel accuracy: 97.07082
+103
+The accuracy for background is 96.32742
+The accuracy for person is 88.30581
+Pixel accuracy: 97.10108
+104
+The accuracy for background is 96.35518
+The accuracy for person is 88.44581
+Pixel accuracy: 97.12781
+105
+The accuracy for background is 96.34307
+The accuracy for person is 88.31967
+Pixel accuracy: 97.11169
+106
+The accuracy for background is 96.33425
+The accuracy for person is 88.39247
+Pixel accuracy: 97.11020
+107
+The accuracy for background is 96.34243
+The accuracy for person is 88.33846
+Pixel accuracy: 97.11308
+108
+The accuracy for background is 96.36529
+The accuracy for person is 88.43265
+Pixel accuracy: 97.13362
+109
+The accuracy for background is 96.31128
+The accuracy for person is 88.28446
+Pixel accuracy: 97.08610
+110
+The accuracy for background is 96.33185
+The accuracy for person is 88.35502
+Pixel accuracy: 97.10868
+111
+The accuracy for background is 96.32616
+The accuracy for person is 88.28798
+Pixel accuracy: 97.09948
+112
+The accuracy for background is 96.32672
+The accuracy for person is 88.36739
+Pixel accuracy: 97.10448
+113
+The accuracy for background is 96.31293
+The accuracy for person is 88.23611
+Pixel accuracy: 97.08822
+114
+The accuracy for background is 96.33563
+The accuracy for person is 88.31737
+Pixel accuracy: 97.10684
+115
+The accuracy for background is 96.37186
+The accuracy for person is 88.47277
+Pixel accuracy: 97.14065
+116
+The accuracy for background is 96.28912
+The accuracy for person is 88.26417
+Pixel accuracy: 97.07184
+117
+The accuracy for background is 96.30552
+The accuracy for person is 88.27952
+Pixel accuracy: 97.08878
+118
+The accuracy for background is 96.30543
+The accuracy for person is 88.08784
+Pixel accuracy: 97.07524
+119
+The accuracy for background is 96.32236
+The accuracy for person is 88.32740
+Pixel accuracy: 97.10078
+120
+The accuracy for background is 96.33033
+The accuracy for person is 88.41117
+Pixel accuracy: 97.10789
+121
+The accuracy for background is 96.27171
+The accuracy for person is 88.23238
+Pixel accuracy: 97.06207
+122
+The accuracy for background is 96.27832
+The accuracy for person is 88.02813
+Pixel accuracy: 97.05459
+123
+The accuracy for background is 96.35048
+The accuracy for person is 88.46048
+Pixel accuracy: 97.12758
+124
+The accuracy for background is 96.27560
+The accuracy for person is 88.05884
+Pixel accuracy: 97.05642
+125
+The accuracy for background is 96.30213
+The accuracy for person is 88.17312
+Pixel accuracy: 97.07532
+126
+The accuracy for background is 96.33064
+The accuracy for person is 88.36946
+Pixel accuracy: 97.10721
+127
+The accuracy for background is 96.31052
+The accuracy for person is 88.16945
+Pixel accuracy: 97.08229
+128
+The accuracy for background is 96.32744
+The accuracy for person is 88.37898
+Pixel accuracy: 97.10510
+129
+The accuracy for background is 96.31944
+The accuracy for person is 88.37492
+Pixel accuracy: 97.10097
+130
+The accuracy for background is 96.27864
+The accuracy for person is 88.14068
+Pixel accuracy: 97.05946
+131
+The accuracy for background is 96.27016
+The accuracy for person is 87.95196
+Pixel accuracy: 97.04149
+132
+The accuracy for background is 96.28443
+The accuracy for person is 88.29244
+Pixel accuracy: 97.07279
+133
+The accuracy for background is 96.29479
+The accuracy for person is 88.25642
+Pixel accuracy: 97.07551
+134
+The accuracy for background is 96.32672
+The accuracy for person is 88.33713
+Pixel accuracy: 97.10047
+135
+The accuracy for background is 96.25931
+The accuracy for person is 87.98243
+Pixel accuracy: 97.03913
+136
+The accuracy for background is 96.21540
+The accuracy for person is 87.79436
+Pixel accuracy: 96.99940
+137
+The accuracy for background is 96.27779
+The accuracy for person is 88.18495
+Pixel accuracy: 97.06364
+138
+The accuracy for background is 96.26988
+The accuracy for person is 87.97894
+Pixel accuracy: 97.04628
+139
+The accuracy for background is 96.27986
+The accuracy for person is 88.23063
+Pixel accuracy: 97.06458
+140
+The accuracy for background is 96.28094
+The accuracy for person is 88.23341
+Pixel accuracy: 97.06655
+141
+The accuracy for background is 96.30969
+The accuracy for person is 88.28355
+Pixel accuracy: 97.08686
+142
+The accuracy for background is 96.31866
+The accuracy for person is 88.40907
+Pixel accuracy: 97.10050
+143
+The accuracy for background is 96.30156
+The accuracy for person is 88.34620
+Pixel accuracy: 97.08592
+144
+The accuracy for background is 96.32598
+The accuracy for person is 88.33618
+Pixel accuracy: 97.09924
+145
+The accuracy for background is 96.28659
+The accuracy for person is 88.25163
+Pixel accuracy: 97.07265
+146
+The accuracy for background is 96.22944
+The accuracy for person is 87.88331
+Pixel accuracy: 97.01248
+147
+The accuracy for background is 96.37120
+The accuracy for person is 88.51576
+Pixel accuracy: 97.14328
+148
+The accuracy for background is 96.25501
+The accuracy for person is 88.36660
+Pixel accuracy: 97.05947
+149
+The accuracy for background is 96.31679
+The accuracy for person is 88.13501
+Pixel accuracy: 97.08510
+150
+The accuracy for background is 96.27357
+The accuracy for person is 88.01464
+Pixel accuracy: 97.04781
+151
+The accuracy for background is 96.30556
+The accuracy for person is 88.14835
+Pixel accuracy: 97.07873
+152
+The accuracy for background is 96.33297
+The accuracy for person is 88.42963
+Pixel accuracy: 97.11270
+153
+The accuracy for background is 96.33192
+The accuracy for person is 88.29746
+Pixel accuracy: 97.10407
+154
+The accuracy for background is 96.29451
+The accuracy for person is 88.37213
+Pixel accuracy: 97.08545
+155
+The accuracy for background is 96.28409
+The accuracy for person is 88.31293
+Pixel accuracy: 97.07276
+156
+The accuracy for background is 96.24925
+The accuracy for person is 88.08779
+Pixel accuracy: 97.03467
+157
+The accuracy for background is 96.23068
+The accuracy for person is 87.81299
+Pixel accuracy: 97.00884
+158
+The accuracy for background is 96.20319
+The accuracy for person is 88.17950
+Pixel accuracy: 97.01373
+159
+The accuracy for background is 95.75537
+The accuracy for person is 86.56499
+Pixel accuracy: 96.62634
+160
+The accuracy for background is 96.15572
+The accuracy for person is 88.19594
+Pixel accuracy: 96.98330
+161
+The accuracy for background is 96.31775
+The accuracy for person is 88.33100
+Pixel accuracy: 97.09205
+162
+The accuracy for background is 96.40604
+The accuracy for person is 88.53775
+Pixel accuracy: 97.15931
+163
+The accuracy for background is 96.37607
+The accuracy for person is 88.41262
+Pixel accuracy: 97.13231
+164
+The accuracy for background is 96.44683
+The accuracy for person is 88.74545
+Pixel accuracy: 97.19862
+165
+The accuracy for background is 96.42500
+The accuracy for person is 88.68040
+Pixel accuracy: 97.17827
+166
+The accuracy for background is 96.39754
+The accuracy for person is 88.59019
+Pixel accuracy: 97.15818
+167
+The accuracy for background is 96.41287
+The accuracy for person is 88.67743
+Pixel accuracy: 97.17114
+168
+The accuracy for background is 96.37059
+The accuracy for person is 88.48990
+Pixel accuracy: 97.13420
+169
+The accuracy for background is 96.39810
+The accuracy for person is 88.53507
+Pixel accuracy: 97.15448
+170
+The accuracy for background is 96.44279
+The accuracy for person is 88.63565
+Pixel accuracy: 97.19027
+171
+The accuracy for background is 96.42803
+The accuracy for person is 88.67112
+Pixel accuracy: 97.18124
+172
+The accuracy for background is 96.40581
+The accuracy for person is 88.60403
+Pixel accuracy: 97.16369
+173
+The accuracy for background is 96.42579
+The accuracy for person is 88.60810
+Pixel accuracy: 97.17791
+174
+The accuracy for background is 96.35797
+The accuracy for person is 88.35047
+Pixel accuracy: 97.11918
+175
+The accuracy for background is 96.39974
+The accuracy for person is 88.60988
+Pixel accuracy: 97.16166
+176
+The accuracy for background is 96.44043
+The accuracy for person is 88.67387
+Pixel accuracy: 97.18875
+177
+The accuracy for background is 96.38212
+The accuracy for person is 88.54142
+Pixel accuracy: 97.14560
+178
+The accuracy for background is 96.41894
+The accuracy for person is 88.57839
+Pixel accuracy: 97.17153
+179
+The accuracy for background is 96.43056
+The accuracy for person is 88.60075
+Pixel accuracy: 97.17952
+180
+The accuracy for background is 96.38324
+The accuracy for person is 88.54411
+Pixel accuracy: 97.14581
+181
+The accuracy for background is 96.39501
+The accuracy for person is 88.58674
+Pixel accuracy: 97.15632
+182
+The accuracy for background is 96.35555
+The accuracy for person is 88.41533
+Pixel accuracy: 97.11937
+183
+The accuracy for background is 96.40785
+The accuracy for person is 88.66391
+Pixel accuracy: 97.16905
+184
+The accuracy for background is 96.40393
+The accuracy for person is 88.54765
+Pixel accuracy: 97.15936
+185
+The accuracy for background is 96.47995
+The accuracy for person is 88.82591
+Pixel accuracy: 97.22546
+186
+The accuracy for background is 96.37288
+The accuracy for person is 88.45968
+Pixel accuracy: 97.13328
+187
+The accuracy for background is 96.41829
+The accuracy for person is 88.65289
+Pixel accuracy: 97.17753
+188
+The accuracy for background is 96.36663
+The accuracy for person is 88.45817
+Pixel accuracy: 97.13252
+189
+The accuracy for background is 96.41375
+The accuracy for person is 88.55975
+Pixel accuracy: 97.16897
+190
+The accuracy for background is 96.39139
+The accuracy for person is 88.49595
+Pixel accuracy: 97.14835
+191
+The accuracy for background is 96.32339
+The accuracy for person is 88.31230
+Pixel accuracy: 97.09646
+192
+The accuracy for background is 96.35403
+The accuracy for person is 88.45366
+Pixel accuracy: 97.12309
+193
+The accuracy for background is 96.32846
+The accuracy for person is 88.29562
+Pixel accuracy: 97.09779
+194
+The accuracy for background is 96.39686
+The accuracy for person is 88.51375
+Pixel accuracy: 97.15328
+195
+The accuracy for background is 96.38731
+The accuracy for person is 88.61662
+Pixel accuracy: 97.15402
+196
+The accuracy for background is 96.39242
+The accuracy for person is 88.44017
+Pixel accuracy: 97.14703
+197
+The accuracy for background is 96.40167
+The accuracy for person is 88.62452
+Pixel accuracy: 97.16364
+198
+The accuracy for background is 96.34647
+The accuracy for person is 88.36379
+Pixel accuracy: 97.11144
+199
+The accuracy for background is 96.32480
+The accuracy for person is 88.39084
+Pixel accuracy: 97.10020
+200
+The accuracy for background is 96.37369
+The accuracy for person is 88.47811
+Pixel accuracy: 97.13850
+201
+The accuracy for background is 96.37948
+The accuracy for person is 88.47556
+Pixel accuracy: 97.13960
+202
+The accuracy for background is 96.34017
+The accuracy for person is 88.44884
+Pixel accuracy: 97.11142
+203
+The accuracy for background is 96.35045
+The accuracy for person is 88.38639
+Pixel accuracy: 97.11666
+204
+The accuracy for background is 96.41420
+The accuracy for person is 88.61398
+Pixel accuracy: 97.16793
+205
+The accuracy for background is 96.37864
+The accuracy for person is 88.54297
+Pixel accuracy: 97.14358
+206
+The accuracy for background is 96.33124
+The accuracy for person is 88.25299
+Pixel accuracy: 97.09784
+207
+The accuracy for background is 96.35486
+The accuracy for person is 88.32544
+Pixel accuracy: 97.11942
+208
+The accuracy for background is 96.37098
+The accuracy for person is 88.36726
+Pixel accuracy: 97.13008
+209
+The accuracy for background is 96.37011
+The accuracy for person is 88.47329
+Pixel accuracy: 97.13568
+210
+The accuracy for background is 96.31516
+The accuracy for person is 88.08709
+Pixel accuracy: 97.07618
+211
+The accuracy for background is 96.31006
+The accuracy for person is 88.27967
+Pixel accuracy: 97.08298
+212
+The accuracy for background is 96.33065
+The accuracy for person is 88.21082
+Pixel accuracy: 97.09629
+213
+The accuracy for background is 96.39610
+The accuracy for person is 88.51078
+Pixel accuracy: 97.15560
+214
+The accuracy for background is 96.33075
+The accuracy for person is 88.09734
+Pixel accuracy: 97.08781
+215
+The accuracy for background is 96.30009
+The accuracy for person is 88.23976
+Pixel accuracy: 97.07472
+216
+The accuracy for background is 96.33122
+The accuracy for person is 88.49115
+Pixel accuracy: 97.11051
+217
+The accuracy for background is 96.34216
+The accuracy for person is 88.41162
+Pixel accuracy: 97.11244
+218
+The accuracy for background is 96.32615
+The accuracy for person is 88.16785
+Pixel accuracy: 97.08723
+219
+The accuracy for background is 96.27732
+The accuracy for person is 88.08314
+Pixel accuracy: 97.05189
+220
+The accuracy for background is 96.39142
+The accuracy for person is 88.52024
+Pixel accuracy: 97.15039
+221
+The accuracy for background is 96.29876
+The accuracy for person is 88.23537
+Pixel accuracy: 97.07733
+222
+The accuracy for background is 96.41598
+The accuracy for person is 88.57166
+Pixel accuracy: 97.17213
+223
+The accuracy for background is 96.27410
+The accuracy for person is 88.09144
+Pixel accuracy: 97.05012
+224
+The accuracy for background is 96.18096
+The accuracy for person is 87.64707
+Pixel accuracy: 96.96848
+225
+The accuracy for background is 96.33102
+The accuracy for person is 88.23002
+Pixel accuracy: 97.09489
+226
+The accuracy for background is 96.35486
+The accuracy for person is 88.42069
+Pixel accuracy: 97.12276
+227
+The accuracy for background is 96.32129
+The accuracy for person is 88.36819
+Pixel accuracy: 97.09715
+228
+The accuracy for background is 96.38372
+The accuracy for person is 88.56170
+Pixel accuracy: 97.15073
+229
+The accuracy for background is 96.23836
+The accuracy for person is 87.81735
+Pixel accuracy: 97.01404
+230
+The accuracy for background is 96.32737
+The accuracy for person is 88.21613
+Pixel accuracy: 97.09339
+231
+The accuracy for background is 96.34478
+The accuracy for person is 88.29778
+Pixel accuracy: 97.10757
+232
+The accuracy for background is 96.30559
+The accuracy for person is 88.29461
+Pixel accuracy: 97.08181
+233
+The accuracy for background is 96.25368
+The accuracy for person is 87.90259
+Pixel accuracy: 97.02605
+234
+The accuracy for background is 96.36614
+The accuracy for person is 88.47394
+Pixel accuracy: 97.13388
+235
+The accuracy for background is 96.36972
+The accuracy for person is 88.50561
+Pixel accuracy: 97.13488
+236
+The accuracy for background is 96.32345
+The accuracy for person is 88.30849
+Pixel accuracy: 97.09319
+237
+The accuracy for background is 96.34203
+The accuracy for person is 88.31031
+Pixel accuracy: 97.10540
+238
+The accuracy for background is 96.29461
+The accuracy for person is 88.43509
+Pixel accuracy: 97.08297
+239
+The accuracy for background is 96.38395
+The accuracy for person is 88.56433
+Pixel accuracy: 97.14930
+240
+The accuracy for background is 96.36095
+The accuracy for person is 88.39930
+Pixel accuracy: 97.12292
+241
+The accuracy for background is 96.33818
+The accuracy for person is 88.47121
+Pixel accuracy: 97.11679
+242
+The accuracy for background is 96.38444
+The accuracy for person is 88.52928
+Pixel accuracy: 97.14347
+243
+The accuracy for background is 96.28927
+The accuracy for person is 88.37946
+Pixel accuracy: 97.07664
+244
+The accuracy for background is 96.33553
+The accuracy for person is 88.24847
+Pixel accuracy: 97.09814
+245
+The accuracy for background is 96.26578
+The accuracy for person is 88.41714
+Pixel accuracy: 97.06239
+246
+The accuracy for background is 96.36050
+The accuracy for person is 88.50450
+Pixel accuracy: 97.12552
+247
+The accuracy for background is 96.30920
+The accuracy for person is 88.29227
+Pixel accuracy: 97.08699
+248
+The accuracy for background is 96.30017
+The accuracy for person is 88.32708
+Pixel accuracy: 97.08064
+249
+The accuracy for background is 96.31840
+The accuracy for person is 88.21770
+Pixel accuracy: 97.08538
+250
+The accuracy for background is 96.21426
+The accuracy for person is 88.06334
+Pixel accuracy: 97.01220
+251
+The accuracy for background is 96.35747
+The accuracy for person is 88.51177
+Pixel accuracy: 97.13058
+252
+The accuracy for background is 96.36517
+The accuracy for person is 88.45021
+Pixel accuracy: 97.13106
+253
+The accuracy for background is 96.35223
+The accuracy for person is 88.40612
+Pixel accuracy: 97.11871
+254
+The accuracy for background is 96.27460
+The accuracy for person is 88.01525
+Pixel accuracy: 97.04189
+255
+The accuracy for background is 96.30356
+The accuracy for person is 88.30588
+Pixel accuracy: 97.08587
+256
+The accuracy for background is 96.33212
+The accuracy for person is 88.51338
+Pixel accuracy: 97.11188
+257
+The accuracy for background is 96.41332
+The accuracy for person is 88.52583
+Pixel accuracy: 97.16440
+258
+The accuracy for background is 96.37948
+The accuracy for person is 88.57187
+Pixel accuracy: 97.14805
+259
+The accuracy for background is 96.27535
+The accuracy for person is 88.46689
+Pixel accuracy: 97.08021
+260
+The accuracy for background is 96.28844
+The accuracy for person is 88.05927
+Pixel accuracy: 97.05777
+261
+The accuracy for background is 96.32138
+The accuracy for person is 88.29139
+Pixel accuracy: 97.09213
+262
+The accuracy for background is 96.29778
+The accuracy for person is 88.37189
+Pixel accuracy: 97.08405
+263
+The accuracy for background is 96.37815
+The accuracy for person is 88.71904
+Pixel accuracy: 97.15760
+264
+The accuracy for background is 96.41515
+The accuracy for person is 88.63771
+Pixel accuracy: 97.17229
+265
+The accuracy for background is 96.30285
+The accuracy for person is 88.22774
+Pixel accuracy: 97.07563
+266
+The accuracy for background is 96.32962
+The accuracy for person is 88.25088
+Pixel accuracy: 97.09449
+267
+The accuracy for background is 96.32412
+The accuracy for person is 88.37725
+Pixel accuracy: 97.09783
+268
+The accuracy for background is 96.26164
+The accuracy for person is 87.88884
+Pixel accuracy: 97.02872
+269
+The accuracy for background is 96.38594
+The accuracy for person is 88.54942
+Pixel accuracy: 97.15098
+270
+The accuracy for background is 96.27355
+The accuracy for person is 88.01170
+Pixel accuracy: 97.04432
+271
+The accuracy for background is 95.30240
+The accuracy for person is 84.48010
+Pixel accuracy: 96.22218
+272
+The accuracy for background is 96.27706
+The accuracy for person is 88.54375
+Pixel accuracy: 97.08823
+273
+The accuracy for background is 96.43922
+The accuracy for person is 88.65350
+Pixel accuracy: 97.18879
+274
+The accuracy for background is 96.53382
+The accuracy for person is 88.99239
+Pixel accuracy: 97.27038
+275
+The accuracy for background is 96.50148
+The accuracy for person is 88.95407
+Pixel accuracy: 97.24792
+276
+The accuracy for background is 96.57300
+The accuracy for person is 89.15000
+Pixel accuracy: 97.30517
+277
+The accuracy for background is 96.52353
+The accuracy for person is 88.99392
+Pixel accuracy: 97.26200
+278
+The accuracy for background is 96.50784
+The accuracy for person is 88.91154
+Pixel accuracy: 97.24623
+279
+The accuracy for background is 96.51042
+The accuracy for person is 88.94641
+Pixel accuracy: 97.25186
+280
+The accuracy for background is 96.49436
+The accuracy for person is 88.89676
+Pixel accuracy: 97.23801
+281
+The accuracy for background is 96.55812
+The accuracy for person is 89.06754
+Pixel accuracy: 97.28874
+282
+The accuracy for background is 96.52068
+The accuracy for person is 88.95281
+Pixel accuracy: 97.25894
+283
+The accuracy for background is 96.50267
+The accuracy for person is 88.94712
+Pixel accuracy: 97.24576
+284
+The accuracy for background is 96.52128
+The accuracy for person is 88.98465
+Pixel accuracy: 97.25799
+285
+The accuracy for background is 96.54624
+The accuracy for person is 89.01186
+Pixel accuracy: 97.27731
+286
+The accuracy for background is 96.53250
+The accuracy for person is 88.97409
+Pixel accuracy: 97.26689
+287
+The accuracy for background is 96.46097
+The accuracy for person is 88.75069
+Pixel accuracy: 97.20810
+288
+The accuracy for background is 96.52323
+The accuracy for person is 88.91187
+Pixel accuracy: 97.25937
+289
+The accuracy for background is 96.49800
+The accuracy for person is 88.87584
+Pixel accuracy: 97.23926
+290
+The accuracy for background is 96.51669
+The accuracy for person is 88.96044
+Pixel accuracy: 97.25549
+291
+The accuracy for background is 96.52733
+The accuracy for person is 88.98394
+Pixel accuracy: 97.26595
+292
+The accuracy for background is 96.52057
+The accuracy for person is 88.93045
+Pixel accuracy: 97.25771
+293
+The accuracy for background is 96.53465
+The accuracy for person is 88.97597
+Pixel accuracy: 97.26843
+294
+The accuracy for background is 96.50086
+The accuracy for person is 88.90273
+Pixel accuracy: 97.24378
+295
+The accuracy for background is 96.49458
+The accuracy for person is 88.88164
+Pixel accuracy: 97.23656
+296
+The accuracy for background is 96.47679
+The accuracy for person is 88.76179
+Pixel accuracy: 97.21853
+297
+The accuracy for background is 96.51204
+The accuracy for person is 88.90129
+Pixel accuracy: 97.24958
+298
+The accuracy for background is 96.50430
+The accuracy for person is 88.87478
+Pixel accuracy: 97.24484
+299
+The accuracy for background is 96.51014
+The accuracy for person is 88.83025
+Pixel accuracy: 97.24551
+300
+The accuracy for background is 96.52660
+The accuracy for person is 88.98329
+Pixel accuracy: 97.26281
+301
+The accuracy for background is 96.47584
+The accuracy for person is 88.78497
+Pixel accuracy: 97.22158
+302
+The accuracy for background is 96.47794
+The accuracy for person is 88.76731
+Pixel accuracy: 97.21919
+303
+The accuracy for background is 96.49377
+The accuracy for person is 88.80225
+Pixel accuracy: 97.23215
+304
+The accuracy for background is 96.47349
+The accuracy for person is 88.75818
+Pixel accuracy: 97.21711
+305
+The accuracy for background is 96.46500
+The accuracy for person is 88.74715
+Pixel accuracy: 97.21077
+306
+The accuracy for background is 96.48758
+The accuracy for person is 88.87871
+Pixel accuracy: 97.23411
+307
+The accuracy for background is 96.45845
+The accuracy for person is 88.72261
+Pixel accuracy: 97.20639
+308
+The accuracy for background is 96.42491
+The accuracy for person is 88.66998
+Pixel accuracy: 97.18092
+309
+The accuracy for background is 96.44767
+The accuracy for person is 88.81393
+Pixel accuracy: 97.20509
+310
+The accuracy for background is 96.44552
+The accuracy for person is 88.66795
+Pixel accuracy: 97.19477
+311
+The accuracy for background is 96.47434
+The accuracy for person is 88.76551
+Pixel accuracy: 97.21900
+312
+The accuracy for background is 96.50093
+The accuracy for person is 88.85769
+Pixel accuracy: 97.24097
+313
+The accuracy for background is 96.43432
+The accuracy for person is 88.74695
+Pixel accuracy: 97.18867
+314
+The accuracy for background is 96.38628
+The accuracy for person is 88.41993
+Pixel accuracy: 97.14203
+315
+The accuracy for background is 96.49045
+The accuracy for person is 88.90391
+Pixel accuracy: 97.23804
+316
+The accuracy for background is 96.48810
+The accuracy for person is 88.94427
+Pixel accuracy: 97.23621
+317
+The accuracy for background is 96.44863
+The accuracy for person is 88.76618
+Pixel accuracy: 97.20015
+318
+The accuracy for background is 96.46337
+The accuracy for person is 88.55905
+Pixel accuracy: 97.20005
+319
+The accuracy for background is 96.47962
+The accuracy for person is 88.84178
+Pixel accuracy: 97.22790
+320
+The accuracy for background is 96.43533
+The accuracy for person is 88.72878
+Pixel accuracy: 97.18956
+321
+The accuracy for background is 96.48467
+The accuracy for person is 88.84383
+Pixel accuracy: 97.23147
+322
+The accuracy for background is 96.47241
+The accuracy for person is 88.82504
+Pixel accuracy: 97.22096
+323
+The accuracy for background is 96.40640
+The accuracy for person is 88.57448
+Pixel accuracy: 97.16381
+324
+The accuracy for background is 96.50080
+The accuracy for person is 88.97897
+Pixel accuracy: 97.24642
+325
+The accuracy for background is 96.43271
+The accuracy for person is 88.67173
+Pixel accuracy: 97.18425
+326
+The accuracy for background is 96.44778
+The accuracy for person is 88.72418
+Pixel accuracy: 97.19651
+327
+The accuracy for background is 96.45758
+The accuracy for person is 88.71963
+Pixel accuracy: 97.20529
+328
+The accuracy for background is 96.47426
+The accuracy for person is 89.01437
+Pixel accuracy: 97.23155
+329
+The accuracy for background is 96.40737
+The accuracy for person is 88.60943
+Pixel accuracy: 97.16877
+330
+The accuracy for background is 96.44009
+The accuracy for person is 88.68258
+Pixel accuracy: 97.19407
+331
+The accuracy for background is 96.40130
+The accuracy for person is 88.53566
+Pixel accuracy: 97.15705
+332
+The accuracy for background is 96.45720
+The accuracy for person is 88.73888
+Pixel accuracy: 97.20608
+333
+The accuracy for background is 96.39270
+The accuracy for person is 88.44682
+Pixel accuracy: 97.14611
+334
+The accuracy for background is 96.43022
+The accuracy for person is 88.62675
+Pixel accuracy: 97.18378
+335
+The accuracy for background is 96.45000
+The accuracy for person is 88.75254
+Pixel accuracy: 97.20364
+336
+The accuracy for background is 96.42739
+The accuracy for person is 88.53940
+Pixel accuracy: 97.17569
+337
+The accuracy for background is 96.44950
+The accuracy for person is 88.71470
+Pixel accuracy: 97.20161
+338
+The accuracy for background is 96.43532
+The accuracy for person is 88.71887
+Pixel accuracy: 97.19088
+339
+The accuracy for background is 96.44694
+The accuracy for person is 88.72592
+Pixel accuracy: 97.19940
+340
+The accuracy for background is 96.36088
+The accuracy for person is 88.64095
+Pixel accuracy: 97.13918
+341
+The accuracy for background is 96.44244
+The accuracy for person is 88.88394
+Pixel accuracy: 97.20275
+342
+The accuracy for background is 96.41706
+The accuracy for person is 88.60139
+Pixel accuracy: 97.17318
+343
+The accuracy for background is 96.44523
+The accuracy for person is 88.59412
+Pixel accuracy: 97.19014
+344
+The accuracy for background is 96.42353
+The accuracy for person is 88.70748
+Pixel accuracy: 97.18565
+345
+The accuracy for background is 95.00398
+The accuracy for person is 85.61747
+Pixel accuracy: 96.08505
+346
+The accuracy for background is 96.17524
+The accuracy for person is 87.68937
+Pixel accuracy: 96.96815
+347
+The accuracy for background is 96.34904
+The accuracy for person is 88.28319
+Pixel accuracy: 97.10987
+348
+The accuracy for background is 96.54007
+The accuracy for person is 89.04041
+Pixel accuracy: 97.27340
+349
+The accuracy for background is 96.56312
+The accuracy for person is 89.12760
+Pixel accuracy: 97.29436
+350
+The accuracy for background is 96.56128
+The accuracy for person is 89.07908
+Pixel accuracy: 97.29286
+351
+The accuracy for background is 96.53135
+The accuracy for person is 88.98913
+Pixel accuracy: 97.26737
+352
+The accuracy for background is 96.48810
+The accuracy for person is 88.79936
+Pixel accuracy: 97.22411
+353
+The accuracy for background is 96.55980
+The accuracy for person is 89.04089
+Pixel accuracy: 97.28716
+354
+The accuracy for background is 96.57325
+The accuracy for person is 89.07537
+Pixel accuracy: 97.29831
+355
+The accuracy for background is 96.52254
+The accuracy for person is 88.97651
+Pixel accuracy: 97.26073
+356
+The accuracy for background is 96.48861
+The accuracy for person is 88.84612
+Pixel accuracy: 97.23257
+357
+The accuracy for background is 96.53977
+The accuracy for person is 88.98010
+Pixel accuracy: 97.26922
+358
+The accuracy for background is 96.57806
+The accuracy for person is 89.06172
+Pixel accuracy: 97.29958
+359
+The accuracy for background is 96.49924
+The accuracy for person is 88.87001
+Pixel accuracy: 97.23758
+360
+The accuracy for background is 96.47364
+The accuracy for person is 88.80452
+Pixel accuracy: 97.21809
+361
+The accuracy for background is 96.52190
+The accuracy for person is 88.95476
+Pixel accuracy: 97.25577
+362
+The accuracy for background is 96.51453
+The accuracy for person is 88.88610
+Pixel accuracy: 97.24941
+363
+The accuracy for background is 96.53943
+The accuracy for person is 88.94298
+Pixel accuracy: 97.26796
+364
+The accuracy for background is 96.54192
+The accuracy for person is 88.89909
+Pixel accuracy: 97.26685
+365
+The accuracy for background is 96.50481
+The accuracy for person is 88.82628
+Pixel accuracy: 97.24099
+366
+The accuracy for background is 96.49086
+The accuracy for person is 88.85798
+Pixel accuracy: 97.23190
+367
+The accuracy for background is 96.48145
+The accuracy for person is 88.81477
+Pixel accuracy: 97.22637
+368
+The accuracy for background is 96.50579
+The accuracy for person is 88.91601
+Pixel accuracy: 97.24335
+369
+The accuracy for background is 96.54971
+The accuracy for person is 89.05068
+Pixel accuracy: 97.28251
+370
+The accuracy for background is 96.40970
+The accuracy for person is 88.53676
+Pixel accuracy: 97.16011
+371
+The accuracy for background is 96.52038
+The accuracy for person is 88.94277
+Pixel accuracy: 97.25867
+372
+The accuracy for background is 96.45660
+The accuracy for person is 88.82612
+Pixel accuracy: 97.21034
+373
+The accuracy for background is 96.50965
+The accuracy for person is 88.96520
+Pixel accuracy: 97.25341
+374
+The accuracy for background is 96.54010
+The accuracy for person is 89.10950
+Pixel accuracy: 97.28164
+375
+The accuracy for background is 96.53582
+The accuracy for person is 88.95616
+Pixel accuracy: 97.26912
+376
+The accuracy for background is 96.50902
+The accuracy for person is 88.91602
+Pixel accuracy: 97.24961
+377
+The accuracy for background is 96.53458
+The accuracy for person is 89.03252
+Pixel accuracy: 97.27124
+378
+The accuracy for background is 96.45167
+The accuracy for person is 88.73614
+Pixel accuracy: 97.20330
+379
+The accuracy for background is 96.47106
+The accuracy for person is 88.77319
+Pixel accuracy: 97.21604
+380
+The accuracy for background is 96.55506
+The accuracy for person is 89.04186
+Pixel accuracy: 97.28630
+381
+The accuracy for background is 96.46002
+The accuracy for person is 88.68419
+Pixel accuracy: 97.20636
+382
+The accuracy for background is 96.53260
+The accuracy for person is 88.94904
+Pixel accuracy: 97.26613
+383
+The accuracy for background is 96.49964
+The accuracy for person is 88.88251
+Pixel accuracy: 97.24204
+384
+The accuracy for background is 96.49156
+The accuracy for person is 88.84386
+Pixel accuracy: 97.23211
+385
+The accuracy for background is 96.51155
+The accuracy for person is 88.92009
+Pixel accuracy: 97.25058
+386
+The accuracy for background is 96.48634
+The accuracy for person is 88.92272
+Pixel accuracy: 97.24066
+387
+The accuracy for background is 96.52607
+The accuracy for person is 88.91846
+Pixel accuracy: 97.26212
+388
+The accuracy for background is 96.55191
+The accuracy for person is 89.06976
+Pixel accuracy: 97.28761
+389
+The accuracy for background is 96.47265
+The accuracy for person is 88.77636
+Pixel accuracy: 97.21845
+390
+The accuracy for background is 96.48889
+The accuracy for person is 88.71614
+Pixel accuracy: 97.22730
+391
+The accuracy for background is 96.44529
+The accuracy for person is 88.72374
+Pixel accuracy: 97.19783
+392
+The accuracy for background is 96.48879
+The accuracy for person is 88.92200
+Pixel accuracy: 97.23631
+393
+The accuracy for background is 96.51143
+The accuracy for person is 88.90489
+Pixel accuracy: 97.24760
+394
+The accuracy for background is 96.48125
+The accuracy for person is 88.74101
+Pixel accuracy: 97.22513
+395
+The accuracy for background is 96.44524
+The accuracy for person is 88.70402
+Pixel accuracy: 97.19293
+396
+The accuracy for background is 96.36123
+The accuracy for person is 88.20904
+Pixel accuracy: 97.11528
+397
+The accuracy for background is 96.44513
+The accuracy for person is 88.74972
+Pixel accuracy: 97.19896
+398
+The accuracy for background is 96.43962
+The accuracy for person is 88.84545
+Pixel accuracy: 97.20038
+399
+The accuracy for background is 96.47886
+The accuracy for person is 88.80029
+Pixel accuracy: 97.22589
+400
+The accuracy for background is 96.49467
+The accuracy for person is 88.91492
+Pixel accuracy: 97.24098
+401
+The accuracy for background is 96.33894
+The accuracy for person is 88.33107
+Pixel accuracy: 97.10306
+402
+The accuracy for background is 96.44591
+The accuracy for person is 88.71392
+Pixel accuracy: 97.19558
+403
+The accuracy for background is 96.45910
+The accuracy for person is 88.74148
+Pixel accuracy: 97.21120
+404
+The accuracy for background is 96.49510
+The accuracy for person is 88.87629
+Pixel accuracy: 97.23932
+405
+The accuracy for background is 96.50336
+The accuracy for person is 89.02065
+Pixel accuracy: 97.25276
+406
+The accuracy for background is 96.43398
+The accuracy for person is 88.59780
+Pixel accuracy: 97.18482
+407
+The accuracy for background is 96.47930
+The accuracy for person is 88.80586
+Pixel accuracy: 97.22439
+408
+The accuracy for background is 96.46266
+The accuracy for person is 88.73291
+Pixel accuracy: 97.20745
+409
+The accuracy for background is 96.46318
+The accuracy for person is 88.70034
+Pixel accuracy: 97.20815
+410
+The accuracy for background is 96.42832
+The accuracy for person is 88.84863
+Pixel accuracy: 97.19741
+411
+The accuracy for background is 96.43041
+The accuracy for person is 88.57776
+Pixel accuracy: 97.18034
+412
+The accuracy for background is 96.49139
+The accuracy for person is 88.99045
+Pixel accuracy: 97.24497
+413
+The accuracy for background is 96.44270
+The accuracy for person is 88.52925
+Pixel accuracy: 97.18757
+414
+The accuracy for background is 96.49201
+The accuracy for person is 88.95363
+Pixel accuracy: 97.24017
+415
+The accuracy for background is 96.50412
+The accuracy for person is 88.96062
+Pixel accuracy: 97.24957
+416
+The accuracy for background is 96.30982
+The accuracy for person is 88.15276
+Pixel accuracy: 97.07545
+417
+The accuracy for background is 96.39960
+The accuracy for person is 88.82603
+Pixel accuracy: 97.17512
+418
+The accuracy for background is 96.35999
+The accuracy for person is 88.20842
+Pixel accuracy: 97.11002
+419
+The accuracy for background is 96.42223
+The accuracy for person is 88.61740
+Pixel accuracy: 97.17736
+420
+The accuracy for background is 96.40254
+The accuracy for person is 88.52844
+Pixel accuracy: 97.15749
+421
+The accuracy for background is 96.43784
+The accuracy for person is 88.77791
+Pixel accuracy: 97.19457
+422
+The accuracy for background is 96.41770
+The accuracy for person is 88.50849
+Pixel accuracy: 97.16736
+423
+The accuracy for background is 96.46230
+The accuracy for person is 88.73026
+Pixel accuracy: 97.21111
+424
+The accuracy for background is 96.39771
+The accuracy for person is 88.60254
+Pixel accuracy: 97.15845
+425
+The accuracy for background is 96.38079
+The accuracy for person is 88.41082
+Pixel accuracy: 97.13996
+426
+The accuracy for background is 96.43508
+The accuracy for person is 88.67386
+Pixel accuracy: 97.18715
+427
+The accuracy for background is 96.38201
+The accuracy for person is 88.43912
+Pixel accuracy: 97.14114
+428
+The accuracy for background is 96.27593
+The accuracy for person is 88.02251
+Pixel accuracy: 97.04444
+429
+The accuracy for background is 95.85671
+The accuracy for person is 86.46578
+Pixel accuracy: 96.68866
+430
+The accuracy for background is 95.73730
+The accuracy for person is 86.32321
+Pixel accuracy: 96.59996
+431
